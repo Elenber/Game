@@ -386,3 +386,20 @@ LogInit: Object subsystem initialized
 [2018.07.22-14.24.08:978][788]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2018.07.22-14.24.14:598][796]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
 [2018.07.22-14.25.48:972][125]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.22-15.17.48:263][665]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
+[2018.07.22-15.18.40:011][834]LogSlate: Took 0.014457 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.22-15.18.41:520][834]LogSlate: Took 0.028269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.22-15.18.50:414][834]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2018.07.22-15.18.50:414][834]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2018.07.22-15.18.52:282][834]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 512X128)
+[2018.07.22-15.18.56:192][834]LogAIModule: Creating AISystem for world Map1
+[2018.07.22-15.19.06:279][834]Cmd: MAP LOAD FILE="../../../../../../Tactics/Unreal_Engine_4/Unreal_Project/Game/Content/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=2
+[2018.07.22-15.19.06:281][834]LightingResults: New page: Lighting Build
+[2018.07.22-15.19.06:415][834]LoadErrors: New page: Loading map: Map1.umap
+[2018.07.22-15.19.06:496][834]MapCheck: New page: Map Check
+[2018.07.22-15.19.06:496][834]LightingResults: New page: Lighting Build
+[2018.07.22-15.19.11:968][834]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.07.22-15.19.12:847][834]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.22-15.19.18:823][834]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 5,958.426ms to complete.
+[2018.07.22-15.19.18:839][834]LogFileHelpers: Loading map 'Map1' took 12.895
+[2018.07.22-15.33.14:635][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s)
