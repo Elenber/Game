@@ -386,3 +386,7 @@ LogInit: Object subsystem initialized
 [2018.07.25-20.53.15:139][  0]SourceControl: no changes added to commit (use "git add" and/or "git commit -a")
 [2018.07.25-20.53.15:676][  0]LogContentStreaming: Texture pool size now 400 MB
 [2018.07.25-20.53.31:761][  1]LogSlate: Took 0.079556 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.25-20.53.38:844][  2]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.25-20.53.48:375][  7]LogAssetRegistry: Asset discovery search completed in 539.1317 seconds
+[2018.07.25-20.53.49:377][  7]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000002 seconds (found 0 objects)
+[2018.07.25-20.53.49:380][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.042944 seconds (updated 0 objects)
