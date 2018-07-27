@@ -1,0 +1,999 @@
+﻿Log file open, 07/26/18 18:11:06
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MultiplayerTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1611720862) SRandInit(1611720863).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.173379
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: E:/Tournament/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.26-10.11.07:096][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.26-10.11.07:096][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.26-10.11.07:129][  0]LogInit: Computer: KONSTANTIN-ПК
+[2018.07.26-10.11.07:129][  0]LogInit: User: Konstantin
+[2018.07.26-10.11.07:129][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.26-10.11.07:129][  0]LogInit: High frequency timer resolution =3.020498 MHz
+[2018.07.26-10.11.07:129][  0]LogMemory: Memory total: Physical=6.0GB (6GB approx)
+[2018.07.26-10.11.07:129][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.26-10.11.07:129][  0]LogMemory: Process Physical Memory: 280.48 MB used, 280.48 MB peak
+[2018.07.26-10.11.07:129][  0]LogMemory: Process Virtual Memory: 284.75 MB used, 284.75 MB peak
+[2018.07.26-10.11.07:129][  0]LogMemory: Physical Memory: 3316.32 MB used,  2791.56 MB free, 6107.88 MB total
+[2018.07.26-10.11.07:130][  0]LogMemory: Virtual Memory: 665.77 MB used,  2791.56 MB free, 8388608.00 MB total
+[2018.07.26-10.11.07:255][  0]LogInit: Using OS detected language (ru-RU).
+[2018.07.26-10.11.07:255][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.07.26-10.11.07:259][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.07.26-10.11.07:259][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.07.26-10.11.08:016][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.26-10.11.08:024][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6670' (Feature Level 11_0)
+[2018.07.26-10.11.08:024][  0]LogD3D11RHI:       1010/0/2797 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.07.26-10.11.08:024][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.26-10.11.08:028][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.26-10.11.08:028][  0]LogD3D11RHI:     GPU DeviceId: 0x6758 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.26-10.11.08:028][  0]LogWindows: EnumDisplayDevices:
+[2018.07.26-10.11.08:029][  0]LogWindows:    0. 'AMD Radeon HD 6670' (P:1 D:1)
+[2018.07.26-10.11.08:029][  0]LogWindows:    1. 'AMD Radeon HD 6670' (P:0 D:0)
+[2018.07.26-10.11.08:029][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2018.07.26-10.11.08:029][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.07.26-10.11.08:029][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.07.26-10.11.08:030][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2018.07.26-10.11.08:030][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6670
+[2018.07.26-10.11.08:030][  0]LogD3D11RHI:   Driver Version: Catalyst 15.7.1 (internal:15.200.1062.1004, unified:15.200.1062.1004)
+[2018.07.26-10.11.08:030][  0]LogD3D11RHI:      Driver Date: 8-3-2015
+[2018.07.26-10.11.08:030][  0]LogRHI: Texture pool is 707 MB (70% of 1010 MB)
+[2018.07.26-10.11.08:050][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.07.26-10.11.08:057][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.26-10.11.08:068][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.07.26-10.11.08:068][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Intermediate/Shaders/WorkingDirectory/6544/).
+[2018.07.26-10.11.08:069][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Konstantin/AppData/Local/Temp/UnrealShaderWorkingDir/EF9981EC4D6E15364018B3B1DE7875B8/'.
+[2018.07.26-10.11.08:069][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.26-10.11.09:197][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.26-10.11.09:246][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.26-10.11.09:295][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.26-10.11.09:343][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.26-10.11.09:393][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.26-10.11.09:441][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.26-10.11.09:491][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.26-10.11.09:540][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.26-10.11.09:581][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.26-10.11.09:632][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.26-10.11.09:680][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.26-10.11.09:729][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.26-10.11.09:776][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.26-10.11.09:824][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.26-10.11.09:871][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.26-10.11.09:967][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.26-10.11.09:967][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.26-10.11.10:001][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.26-10.11.10:083][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.26-10.11.10:110][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.26-10.11.10:157][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.26-10.11.10:204][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.26-10.11.10:252][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.26-10.11.10:299][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.26-10.11.10:299][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.26-10.11.10:684][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.26-10.11.11:588][  0]LogDerivedDataCache: Loaded boot cache 0.90s 93MB C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.26-10.11.11:588][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.07.26-10.11.11:588][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.26-10.11.11:588][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.26-10.11.11:588][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.26-10.11.11:588][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.26-10.11.11:610][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.26-10.11.11:622][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Konstantin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.26-10.11.11:634][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.26-10.11.11:634][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.26-10.11.11:635][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.26-10.11.11:635][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.26-10.11.11:960][  0]LogAssetRegistry: FAssetRegistry took 0.0250 seconds to start up
+[2018.07.26-10.11.12:162][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.26-10.11.12:165][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.07.26-10.11.12:534][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.26-10.11.12:570][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.26-10.11.12:570][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.26-10.11.12:570][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.26-10.11.12:570][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.26-10.11.12:570][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.26-10.11.13:019][  0]LogNetVersion: MultiplayerTest , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1647500180)
+[2018.07.26-10.11.13:207][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.018976 seconds
+[2018.07.26-10.11.13:213][  0]LogUObjectArray: 35832 objects as part of root set at end of initial load.
+[2018.07.26-10.11.13:213][  0]LogUObjectAllocator: 7742864 out of 0 bytes used by permanent object pool.
+[2018.07.26-10.11.13:213][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.26-10.11.15:924][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.26-10.11.15:959][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.26-10.11.16:558][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.26-10.11.16:948][  0]SourceControl: Source control is disabled
+[2018.07.26-10.11.17:959][  0]LogOcInput: OculusInput pre-init called
+[2018.07.26-10.11.18:196][  0]LogEngine: Initializing Engine...
+[2018.07.26-10.11.18:198][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.26-10.11.18:521][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.26-10.11.18:521][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.26-10.11.18:640][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.26-10.11.18:654][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.26-10.11.18:696][  0]LogInit: FAudioDevice initialized.
+[2018.07.26-10.11.18:882][  0]LogDerivedDataCache: Saved boot cache 0.19s 93MB C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.26-10.11.18:902][  0]LogInit: Texture streaming: Enabled
+[2018.07.26-10.11.18:984][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.26-10.11.19:170][  0]LogInit: Transaction tracking system initialized
+[2018.07.26-10.11.19:432][  0]BlueprintLog: New page: Editor Load
+[2018.07.26-10.11.20:165][  0]LocalizationService: Localization service is disabled
+[2018.07.26-10.11.20:925][  0]LogConsoleResponse: Display: 
+[2018.07.26-10.11.21:119][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.26-10.11.21:119][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.26-10.11.21:119][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.26-10.11.21:506][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/' took 0.02s
+[2018.07.26-10.11.21:973][  0]Cmd: MAP LOAD FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.26-10.11.21:973][  0]LightingResults: New page: Lighting Build
+[2018.07.26-10.11.22:009][  0]MapCheck: New page: Map Check
+[2018.07.26-10.11.22:009][  0]LightingResults: New page: Lighting Build
+[2018.07.26-10.11.23:051][  0]LogAIModule: Creating AISystem for world Menu
+[2018.07.26-10.11.23:052][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.26-10.11.23:068][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.26-10.11.23:125][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 56.341ms to complete.
+[2018.07.26-10.11.23:125][  0]LogFileHelpers: Loading map 'Menu' took 1.152
+[2018.07.26-10.11.23:270][  0]LogCollectionManager: Loaded 0 collections in 0.002205 seconds
+[2018.07.26-10.11.23:342][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Collections/' took 0.01s
+[2018.07.26-10.11.23:342][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Developers/Konstantin/Collections/' took 0.01s
+[2018.07.26-10.11.23:342][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Collections/' took 0.01s
+[2018.07.26-10.11.23:342][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.26-10.11.23:354][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 2408 classes and 503 folders.
+[2018.07.26-10.11.23:407][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.07.26-10.11.23:463][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.07.26-10.11.23:507][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.07.26-10.11.23:583][  0]LogSlate: Took 0.000249 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.26-10.11.23:585][  0]LogSlate: Took 0.000176 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.26-10.11.23:591][  0]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.26-10.11.23:719][  0]LogRenderer: Reallocating scene render targets to support 1124x572 Format 9 NumSamples 1 (Frame:1).
+[2018.07.26-10.11.24:018][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.07.26-10.11.24:019][  0]LogLoad: (Engine Initialization) Total time: 18.71 seconds
+[2018.07.26-10.11.24:019][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.26-10.11.24:019][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.07.26-10.11.24:019][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.07.26-10.11.24:378][  0]SourceControl: On branch master
+[2018.07.26-10.11.24:379][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.07.26-10.11.24:379][  0]SourceControl: Changes to be committed:
+[2018.07.26-10.11.24:379][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Content/Blueprints/Gameplay/ColorStructure.uasset
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Content/UI/GameplayUI/GameplayChatMessageChild.uasset
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Content/UI/GameplayUI/GameplayChatWindow.uasset
+[2018.07.26-10.11.24:379][  0]SourceControl: 	new file:   Content/UI/GameplayUI/NewChatMessageChild.uasset
+[2018.07.26-10.11.24:379][  0]SourceControl: 	new file:   Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.11.24:379][  0]SourceControl: Changes not staged for commit:
+[2018.07.26-10.11.24:379][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.07.26-10.11.24:379][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Content/UI/GameplayUI/GameplayPlayerChild.uasset
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Content/UI/GameplayUI/GameplayWB.uasset
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Intermediate/Config/CoalescedSourceConfigs/Engine.ini
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Blueprints/Gameplay/GameplayPlayerController_Auto1.uasset
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/UEDPCMap1.umap
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-5A9630E746BE0C93E69576B93AC7530C/CrashReportClient.ini
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-98226FF44787D9355CE257A4417BE918/CrashReportClient.ini
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-D8943EEB45921C5BE47A498253F9FCF6/CrashReportClient.ini
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.07.26-04.10.13.log
+[2018.07.26-10.11.24:379][  0]SourceControl: 	modified:   Saved/Logs/MultiplayerTest.log
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.26-01.57.29.log
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.26-02.03.12.log
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.26-02.08.31.log
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.26-03.16.03.log
+[2018.07.26-10.11.24:379][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.26-03.19.01.log
+[2018.07.26-10.11.24:380][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.26-03.20.04.log
+[2018.07.26-10.11.24:380][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.26-03.22.11.log
+[2018.07.26-10.11.24:380][  0]SourceControl: 	modified:   Saved/Logs/MultiplayerTest_2.log
+[2018.07.26-10.11.24:380][  0]SourceControl: Untracked files:
+[2018.07.26-10.11.24:380][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayChatWindow_2018-07-26-15-01-55.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayChatWindow_2018-07-26-15-18-35.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayPlayerChild_2018-07-26-15-53-36.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-26-14-48-55.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-26-15-01-17.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-26-15-09-34.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-26-15-16-49.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-26-15-43-20.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-26-15-54-20.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayWB_2018-07-26-15-46-04.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/GameplayWB_2018-07-26-15-51-39.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/Map1_2018-07-26-14-57-59.umap
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/Map1_2018-07-26-15-03-27.umap
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/Map1_2018-07-26-15-17-17.umap
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/Map2_2018-07-26-04-14-44.umap
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/Map2_2018-07-26-04-20-21.umap
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/Map2_BuiltData_2018-07-26-04-14-48.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/Map2_BuiltData_2018-07-26-04-20-24.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/SM_Plains_Floors_Flat02_2018-07-26-04-21-27.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Backup/SM_Plains_Wall_Railing_01_2018-07-26-04-22-25.uasset
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-1A04E0E140CBC32B6A3FB7A003185A3E/
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-5CA388004394EFE7B46C7581E2238E52/
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-63C796B9412D512A504BC8BC8ADCDB33/
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-D904345F46D0E2A0EC3F3182033A9806/
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Crashes/
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.26-14.06.47.log
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.26-15.23.44.log
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.26-15.50.28.log
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.26-18.11.06.log
+[2018.07.26-10.11.24:380][  0]SourceControl: 	Saved/Logs/MultiplayerTest_2-backup-2018.07.26-14.58.01.log
+[2018.07.26-10.11.24:381][  0]SourceControl: 	Saved/Logs/MultiplayerTest_2-backup-2018.07.26-15.03.28.log
+[2018.07.26-10.11.24:381][  0]SourceControl: 	Saved/Logs/MultiplayerTest_2-backup-2018.07.26-15.17.19.log
+[2018.07.26-10.11.24:381][  0]SourceControl: 	Saved/Logs/MultiplayerTest_2-backup-2018.07.26-15.18.38.log
+[2018.07.26-10.11.24:381][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.07.26-10.11.24:425][  0]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.26-10.11.24:710][  1]LogAssetRegistry: Asset discovery search completed in 12.7700 seconds
+[2018.07.26-10.11.24:713][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.26-10.11.24:713][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.07.26-10.12.31:886][884]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.26-10.12.32:303][884]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0012 seconds. Added 113 classes and 0 folders.
+[2018.07.26-10.12.33:295][884]LogSlate: Took 0.000298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.26-10.12.33:296][884]LogSlate: Took 0.000187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.26-10.15.40:186][455]LogSlate: Took 0.000477 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.26-10.15.44:701][947]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.26-10.15.50:819][614]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.17.31:451][ 67]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.17.32:206][ 90]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.17.32:287][ 90]LogSavePackage: Save=72.74ms
+[2018.07.26-10.17.32:287][ 90]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindowD7FF0C074D5B9920D7307F83969D45D2.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.17.32:289][ 90]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.18.30:640][404]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.18.46:667][330]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.18.47:876][349]LogSavePackage: Save=166.43ms
+[2018.07.26-10.18.47:877][349]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerController8A40D8AD4F2D9FA44D2456AF7567FBAC.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.18.47:879][349]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.18.53:518][674]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.18.54:691][692]LogSavePackage: Save=148.85ms
+[2018.07.26-10.18.54:691][692]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerController8EBA1B0B4AC4B03FADEF479BF32D682B.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.18.54:694][692]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.19.32:426][189]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.19.33:887][230]LogSlate: Took 0.017072 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.26-10.19.44:777][772]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.19.44:973][772]LogClass: Warning: Type mismatch in GameChatArray of GameplayPlayerController_C - Previous (BoolProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.07.26-10.20.49:750][274]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.20.50:802][289]LogSavePackage: Save=151.86ms
+[2018.07.26-10.20.50:802][289]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerController0F06F56148FDFDAA11F0C98DA6DC1671.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.20.50:804][289]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.21.14:611][147]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.21.26:750][980]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.21.41:676][148]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.21.42:734][163]LogSavePackage: Save=154.95ms
+[2018.07.26-10.21.42:734][163]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerControllerF8B8FC1C4FAE4E4B4B3E33A39934289B.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.21.42:737][163]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.23.38:418][455]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.024
+[2018.07.26-10.23.38:421][455]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/GameplayUI/NewChatWindow] ([1] browsable assets)...
+[2018.07.26-10.23.38:421][455]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/GameplayUI/NewChatWindow]
+[2018.07.26-10.23.38:518][455]LogSavePackage: Save=90.03ms
+[2018.07.26-10.23.38:518][455]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow_Auto1CEF37E8E4E5F8F42A0AC9E9840B0901A.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Autosaves/Game/UI/GameplayUI/NewChatWindow_Auto1.uasset'
+[2018.07.26-10.23.38:519][455]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Autosaves/Game/UI/GameplayUI/NewChatWindow_Auto1.uasset
+[2018.07.26-10.23.38:519][455]LogFileHelpers: Auto-saving content packages took 0.100
+[2018.07.26-10.23.39:033][482]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.23.39:847][498]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.23.39:923][498]LogSavePackage: Save=70.61ms
+[2018.07.26-10.23.39:923][498]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow54542DBC48816F810D3FC1AC01C9A70B.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.23.39:926][498]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.24.20:241][875]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.24.21:107][895]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.24.21:187][895]LogSavePackage: Save=73.90ms
+[2018.07.26-10.24.21:188][895]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow4C47FF224570FF523A4875BC1C961AC7.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.24.21:190][895]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.25.42:794][499]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.25.43:621][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.25.43:707][515]LogSavePackage: Save=79.91ms
+[2018.07.26-10.25.43:707][515]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow48A98C084CCE05ABFB00A2B24E901BC2.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.25.43:710][515]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.26.59:050][139]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.27.00:313][163]LogSavePackage: Save=169.08ms
+[2018.07.26-10.27.00:313][163]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerController9F08E69F4A6ACF45E5D9C1B490FEF3D1.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.27.00:315][163]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.27.22:581][857]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.27.23:476][876]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.27.23:564][876]LogSavePackage: Save=82.22ms
+[2018.07.26-10.27.23:564][876]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow9D48BB2B4FB9ACFE0F742EA554C5ABBA.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.27.23:566][876]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.27.36:372][129]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.27.51:773][398]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.27.52:573][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.27.52:663][414]LogSavePackage: Save=84.26ms
+[2018.07.26-10.27.52:663][414]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow3D1660BF49409ECDEED4FFB68D09238D.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.27.52:666][414]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.28.30:237][252]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.28.31:142][274]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.28.31:236][274]LogSavePackage: Save=87.12ms
+[2018.07.26-10.28.31:236][274]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow667B9A1549C5B4B95A2B7CB5A44A2E3C.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.28.31:238][274]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.29.11:622][943]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.29.12:633][968]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.29.12:758][968]LogSavePackage: Save=117.40ms
+[2018.07.26-10.29.12:758][968]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindowF61436194F208A09CBDE05BA95DD5724.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.29.12:760][968]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.30.07:359][652]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.31.27:465][486]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.31.28:322][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.31.28:422][503]LogSavePackage: Save=93.71ms
+[2018.07.26-10.31.28:422][503]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow1F8D598A4B8D4DD7CE74D2978DA02F67.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.31.28:424][503]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.32.06:263][495]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.32.08:249][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.32.08:349][582]LogSavePackage: Save=94.66ms
+[2018.07.26-10.32.08:349][582]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindowC74AF725484BFBE32E3268810733AA52.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.32.08:352][582]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.32.47:189][767]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.32.48:113][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.32.48:217][787]LogSavePackage: Save=97.87ms
+[2018.07.26-10.32.48:218][787]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow51D783874734815A566E56BA64ED54E3.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.32.48:220][787]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.33.39:069][130]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.022
+[2018.07.26-10.33.39:071][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Gameplay/GameplayPlayerController] ([1] browsable assets)...
+[2018.07.26-10.33.39:071][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gameplay/GameplayPlayerController]
+[2018.07.26-10.33.39:252][130]LogSavePackage: Save=173.29ms
+[2018.07.26-10.33.39:252][130]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerController_Auto2097DABA84295BADD7F1253BA8758EA05.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Autosaves/Game/Blueprints/Gameplay/GameplayPlayerController_Auto2.uasset'
+[2018.07.26-10.33.39:253][130]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Autosaves/Game/Blueprints/Gameplay/GameplayPlayerController_Auto2.uasset
+[2018.07.26-10.33.39:253][130]LogFileHelpers: Auto-saving content packages took 0.183
+[2018.07.26-10.33.54:527][395]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.34.03:657][239]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.35.29:273][492]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.35.47:032][996]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.35.48:265][ 16]LogSavePackage: Save=179.62ms
+[2018.07.26-10.35.48:265][ 16]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerControllerDCD5297B4F2DE93A51EC6E90857D3E5F.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.35.48:267][ 16]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.36.15:061][110]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.36.16:239][129]LogSavePackage: Save=166.68ms
+[2018.07.26-10.36.16:239][129]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerControllerBBA5A0BA427058DD899B3A9A9BA30CFE.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.36.16:242][129]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.38.02:027][242]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.38.03:132][256]LogSavePackage: Save=164.40ms
+[2018.07.26-10.38.03:132][256]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerController4EB1370547A6A90B72A6408E3E3BAB14.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.38.03:135][256]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.42.10:717][914]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.42.11:788][923]LogSavePackage: Save=187.31ms
+[2018.07.26-10.42.11:788][923]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerController82973C82469492C439BE52942725909F.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.42.11:791][923]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.43.39:900][795]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Menu' took 0.026
+[2018.07.26-10.43.39:902][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Gameplay/GameplayPlayerController] ([1] browsable assets)...
+[2018.07.26-10.43.39:902][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Gameplay/GameplayPlayerController]
+[2018.07.26-10.43.40:088][795]LogSavePackage: Save=180.13ms
+[2018.07.26-10.43.40:088][795]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerController_Auto3B2EFA4844416F1540AF127927AA38B1C.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Autosaves/Game/Blueprints/Gameplay/GameplayPlayerController_Auto3.uasset'
+[2018.07.26-10.43.40:090][795]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Autosaves/Game/Blueprints/Gameplay/GameplayPlayerController_Auto3.uasset
+[2018.07.26-10.43.40:090][795]LogFileHelpers: Auto-saving content packages took 0.189
+[2018.07.26-10.48.39:214][798]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.48.55:549][224]LogSlate: Took 0.043187 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2018.07.26-10.52.51:369][616]LogAIModule: Creating AISystem for world Map1
+[2018.07.26-10.52.52:821][616]LogSavePackage: Save=183.92ms
+[2018.07.26-10.52.52:821][616]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerControllerA324D6A44CD45F3E5110CC906D7FED10.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.52.52:823][616]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.52.52:824][616]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Lobby/LobbyGameMode" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Lobby/LobbyGameMode.uasset" SILENT=true
+[2018.07.26-10.52.53:002][616]LogSavePackage: Save=156.20ms
+[2018.07.26-10.52.53:002][616]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/LobbyGameMode46C27BD04F1CB07B63340A994CA4ED39.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Lobby/LobbyGameMode.uasset'
+[2018.07.26-10.52.53:023][616]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Lobby/LobbyGameMode.uasset
+[2018.07.26-10.52.53:030][616]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.26-10.52.53:115][616]LogSavePackage: Save=80.68ms
+[2018.07.26-10.52.53:115][616]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/LobbyPlayerControllerC8C6E3024D25AA5B5DB9D1ACE7DCA616.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Lobby/LobbyPlayerController.uasset'
+[2018.07.26-10.52.53:117][616]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Lobby/LobbyPlayerController.uasset
+[2018.07.26-10.52.53:119][616]Cmd: MAP LOAD FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.26-10.52.53:119][616]LightingResults: New page: Lighting Build
+[2018.07.26-10.52.53:121][616]LoadErrors: New page: Loading map: Map1.umap
+[2018.07.26-10.52.53:121][616]MapCheck: New page: Map Check
+[2018.07.26-10.52.53:121][616]LightingResults: New page: Lighting Build
+[2018.07.26-10.52.53:306][616]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.26-10.52.53:412][616]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.26-10.52.53:476][616]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 63.598ms to complete.
+[2018.07.26-10.52.53:476][616]LogFileHelpers: Loading map 'Map1' took 0.358
+[2018.07.26-10.52.56:457][828]LogTemp: Repeating last play command: Standalone Game
+[2018.07.26-10.52.56:615][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Map1" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Autosaves/Game/Maps/UEDPCMap1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=true
+[2018.07.26-10.52.56:822][828]LogSavePackage: Save=199.33ms
+[2018.07.26-10.52.56:822][828]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/UEDPCMap1DADCEF00473E64C55B778095CDE0D175.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Autosaves/Game/Maps/UEDPCMap1.umap'
+[2018.07.26-10.52.56:824][828]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Autosaves/Game/Maps/UEDPCMap1.umap
+[2018.07.26-10.52.56:831][828]LogEditorTransaction: Undo Spawn Play From Here Start
+[2018.07.26-10.56.30:312][561]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.56.30:445][561]LogBlueprint: Warning: [Compiler GameplayPlayerController] Could not find the function 'AddChildToChat' called from  Add Child to Chat
+[2018.07.26-10.56.30:480][561]LogBlueprint: Warning: [Compiler GameplayPlayerController] [2725.16] Compile of GameplayPlayerController successful, but with 1 Warning(s) [in 167 ms] (/Game/Blueprints/Gameplay/GameplayPlayerController.GameplayPlayerController)
+[2018.07.26-10.56.31:189][587]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.56.31:211][587]LogSavePackage: Save=14.64ms
+[2018.07.26-10.56.31:211][587]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindowB7D42F85497049B5201A97BD0D877A8D.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.56.31:213][587]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.56.33:159][761]BlueprintLog: New page: Compile NewChatWindow
+[2018.07.26-10.56.33:251][761]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.56.33:258][761]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.56.33:258][761]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  Chat Data  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.56.33:258][761]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  PC  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.56.33:269][761]LogBlueprint: Error: [Compiler GameplayPlayerController] Could not find a function named "AddChildToChat" in 'NewChatWindow_C'.
+Make sure 'NewChatWindow_C' has been compiled for  Add Child to Chat
+[2018.07.26-10.56.33:313][761]LogBlueprint: Warning: [Compiler GameplayPlayerController] [2727.99] Compile of GameplayPlayerController failed. 5 Fatal Issue(s) 0 Warning(s) [in 153 ms] (/Game/Blueprints/Gameplay/GameplayPlayerController.GameplayPlayerController)
+[2018.07.26-10.56.34:016][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatWindow" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset" SILENT=true
+[2018.07.26-10.56.34:036][787]LogSavePackage: Save=13.95ms
+[2018.07.26-10.56.34:036][787]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatWindow5BEA737B43AA5BDEEF78D6BFCB56882C.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset'
+[2018.07.26-10.56.34:038][787]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatWindow.uasset
+[2018.07.26-10.56.54:691][920]BlueprintLog: New page: Compile NewChatMessageChild
+[2018.07.26-10.56.54:754][920]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.56.54:754][920]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.56.54:754][920]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  Chat Data  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.56.54:754][920]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  PC  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.56.54:754][920]LogBlueprint: Error: [Compiler GameplayPlayerController] Could not find a function named "AddChildToChat" in 'NewChatWindow_C'.
+Make sure 'NewChatWindow_C' has been compiled for  Add Child to Chat
+[2018.07.26-10.56.54:774][920]LogBlueprint: Warning: [Compiler GameplayPlayerController] [2749.45] Compile of GameplayPlayerController failed. 5 Fatal Issue(s) 0 Warning(s) [in 80 ms] (/Game/Blueprints/Gameplay/GameplayPlayerController.GameplayPlayerController)
+[2018.07.26-10.56.55:482][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/NewChatMessageChild" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatMessageChild.uasset" SILENT=true
+[2018.07.26-10.56.55:506][940]LogSavePackage: Save=17.73ms
+[2018.07.26-10.56.55:507][940]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/NewChatMessageChild3E54B52C4C77850144C40A8AC3EA0BD4.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatMessageChild.uasset'
+[2018.07.26-10.56.55:509][940]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/NewChatMessageChild.uasset
+[2018.07.26-10.57.04:970][687]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.57.05:167][687]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  <Unnamed>  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.57.05:167][687]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  Target  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.57.05:167][687]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  Chat Data  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.57.05:167][687]LogBlueprint: Error: [Compiler GameplayPlayerController] In use pin  PC  no longer exists on this node. Please refresh node or break links to remove pin.
+[2018.07.26-10.57.05:167][687]LogBlueprint: Error: [Compiler GameplayPlayerController] Could not find a function named "AddChildToChat" in 'NewChatWindow_C'.
+Make sure 'NewChatWindow_C' has been compiled for  Add Child to Chat
+[2018.07.26-10.57.05:483][687]LogBlueprint: Warning: [Compiler GameplayPlayerController] [2760.16] Compile of GameplayPlayerController failed. 5 Fatal Issue(s) 0 Warning(s) [in 512 ms] (/Game/Blueprints/Gameplay/GameplayPlayerController.GameplayPlayerController)
+[2018.07.26-10.57.12:603][180]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.57.42:989][227]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.26-10.57.44:146][245]LogSavePackage: Save=143.36ms
+[2018.07.26-10.57.44:146][245]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerController7974D5FC47DFF32BB997A6A2A446BABA.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.26-10.57.44:148][245]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.26-10.57.51:412][742]BlueprintLog: New page: Compile MyPlayerState
+[2018.07.26-11.01.51:854][481]BlueprintLog: New page: Compile MyGameState
+[2018.07.26-11.01.54:626][606]LogTemp: Repeating last play command: Standalone Game
+[2018.07.26-11.01.55:897][606]LogEditorTransaction: Undo Spawn Play From Here Start
+[2018.07.26-11.01.59:338][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/MyGameState" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset" SILENT=true
+[2018.07.26-11.01.59:408][708]LogSavePackage: Save=63.41ms
+[2018.07.26-11.01.59:408][708]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/MyGameState7D57EA18475ED567FE6A7182C490A9B1.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset'
+[2018.07.26-11.01.59:411][708]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset
+[2018.07.26-11.01.59:413][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/MyPlayerState" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyPlayerState.uasset" SILENT=true
+[2018.07.26-11.01.59:425][708]LogSavePackage: Save=5.85ms
+[2018.07.26-11.01.59:425][708]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/MyPlayerStateD7B45E8048FA85A05149158F2DD5DB2F.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyPlayerState.uasset'
+[2018.07.26-11.01.59:433][708]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyPlayerState.uasset
+[2018.07.26-11.02.03:580][ 16]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.07.26-11.02.03:620][ 16]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.26-11.02.03:642][ 16]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.26-11.02.03:642][ 16]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.26-11.02.03:651][ 16]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.26-11.02.03:651][ 16]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.26-11.02.03:651][ 16]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.07.26-11.02.03:651][ 16]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.07.26-11.02.03:693][ 16]PIE: New page: PIE session: Map1 (Jul 27, 2018, 3:02:03 AM)
+[2018.07.26-11.02.03:700][ 16]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map1
+[2018.07.26-11.02.03:742][ 16]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041534s)
+[2018.07.26-11.02.03:743][ 16]LogAIModule: Creating AISystem for world Map1
+[2018.07.26-11.02.03:743][ 16]LogPlayLevel: PIE: World Init took: (0.000915s)
+[2018.07.26-11.02.03:743][ 16]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_1_Map1.Map1 (0.049629s)
+[2018.07.26-11.02.03:770][ 16]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.26-11.02.03:780][ 16]LogInit: FAudioDevice initialized.
+[2018.07.26-11.02.03:850][ 16]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.07.26-11.02.03:852][ 16]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map1.Map1 up for play (max tick rate 0) at 2018.07.26-19.02.03
+[2018.07.26-11.02.03:853][ 16]LogWorld: Bringing up level for play took: 0.002132
+[2018.07.26-11.02.03:960][ 16]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0009 seconds. Added 11 classes and 0 folders.
+[2018.07.26-11.02.03:975][ 16]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.26-11.02.03:976][ 16]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.07.26-11.02.03:976][ 16]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.26-11.02.03:979][ 16]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.07.26-11.02.06:251][ 16]GetHostByName failed (SE_NO_DATA)
+[2018.07.26-11.02.06:263][ 16]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.26-11.02.06:313][ 16]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2018.07.26-11.02.06:317][ 16]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Map1 1.859
+[2018.07.26-11.02.06:320][ 16]PIE: New page: PIE session: Map1 (Jul 27, 2018, 3:02:06 AM)
+[2018.07.26-11.02.06:364][ 16]LogNet: Browse: 127.0.0.1//Game/Maps/Menu
+[2018.07.26-11.02.06:364][ 16]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.26-11.02.06:364][ 16]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.07.26-11.02.06:364][ 16]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.07.26-11.02.06:364][ 16]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.07.26-11.02.08:614][ 16]GetHostByName failed (SE_NO_DATA)
+[2018.07.26-11.02.08:631][ 16]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.26-11.02.08:640][ 16]LogNet: Game client on port 7777, rate 10000
+[2018.07.26-11.02.08:644][ 16]PIE: Play in editor start time for /Game/Maps/Menu 4.186
+[2018.07.26-11.02.08:652][ 16]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.07.26-11.02.08:662][ 16]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61508
+[2018.07.26-11.02.08:662][ 16]LogHandshake: SendConnectChallenge. Timestamp: 0.014173, Cookie: 036219083076170023025096251048027040065058061148232174063066
+[2018.07.26-11.02.08:702][ 16]LogHandshake: SendChallengeResponse. Timestamp: 0.014173, Cookie: 036219083076170023025096251048027040065058061148232174063066
+[2018.07.26-11.02.08:721][ 16]LogRenderer: Reallocating scene render targets to support 1124x656 Format 9 NumSamples 1 (Frame:1).
+[2018.07.26-11.02.08:818][ 17]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.47, Realtime: 0.16. IpNetDriver_0
+[2018.07.26-11.02.08:818][ 17]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61508
+[2018.07.26-11.02.08:818][ 17]LogHandshake: SendChallengeAck. InCookie: 036219083076170023025096251048027040065058061148232174063066
+[2018.07.26-11.02.08:818][ 17]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61508
+[2018.07.26-11.02.08:818][ 17]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.26-11.02.08:818][ 17]LogNet: NotifyAcceptedConnection: Name: Map1, TimeStamp: 07/26/18 19:02:08, [UNetConnection] RemoteAddr: 127.0.0.1:61508, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.07.26-11.02.08:819][ 17]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61508, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.07.26-11.02.08:819][ 17]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 5.47, Realtime: 0.12. IpNetDriver_1
+[2018.07.26-11.02.08:819][ 17]LogNetVersion: MultiplayerTest 1.0.0.0, NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3368800141)
+[2018.07.26-11.02.08:819][ 17]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.07.26-11.02.08:896][ 18]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Map1.Map1: Accepted
+[2018.07.26-11.02.08:896][ 18]LogNet: Remote platform little endian=1
+[2018.07.26-11.02.08:896][ 18]LogNet: This platform little endian=1
+[2018.07.26-11.02.08:940][ 19]LogNet: Login request: /Game/Maps/Menu?Name=Konstantin-??-DAC663BA4D4280555B7036B27597A190 userId: Konstantin-??-DAC663BA4D4280555B7036B27597A190
+[2018.07.26-11.02.08:940][ 19]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Map1, Game: /Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C)
+[2018.07.26-11.02.08:951][ 19]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_Map1?game=/Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C
+[2018.07.26-11.02.08:992][ 19]Cmd: MEM
+[2018.07.26-11.02.09:017][ 19]LogMemory: Platform Memory Stats for Windows
+[2018.07.26-11.02.09:017][ 19]LogMemory: Process Physical Memory: 2015.51 MB used, 2015.51 MB peak
+[2018.07.26-11.02.09:017][ 19]LogMemory: Process Virtual Memory: 1921.98 MB used, 1936.48 MB peak
+[2018.07.26-11.02.09:017][ 19]LogMemory: Physical Memory: 4680.53 MB used,  1427.35 MB free, 6107.88 MB total
+[2018.07.26-11.02.09:017][ 19]LogMemory: Virtual Memory: 2594.75 MB used,  1427.35 MB free, 8388608.00 MB total
+[2018.07.26-11.02.09:017][ 19]LogMemory: 
+[2018.07.26-11.02.09:017][ 19]Allocator Stats for TBB: (not implemented)
+[2018.07.26-11.02.09:025][ 19]LogAIModule: Creating AISystem for world Map1
+[2018.07.26-11.02.09:026][ 19]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.26-11.02.09:028][ 19]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Map1.Map1 up for play (max tick rate 0) at 2018.07.26-19.02.09
+[2018.07.26-11.02.09:028][ 19]LogWorld: Bringing up level for play took: 0.001776
+[2018.07.26-11.02.09:029][ 19]LogLoad: Took 0.077532 seconds to LoadMap(/Game/Maps/UEDPIE_1_Map1)
+[2018.07.26-11.02.09:117][ 20]LogNet: Client netspeed is 10000
+[2018.07.26-11.02.09:117][ 20]LogNet: Join request: /Game/Maps/Menu?Name=Konstantin-??SplitscreenCount=1
+[2018.07.26-11.02.09:117][ 20]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.07.26-11.02.09:228][ 20]LogNet: Join succeeded: Konstantin-
+[2018.07.26-11.02.09:287][ 21]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.07.26-11.02.09:287][ 21]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.07.26-11.02.09:300][ 22]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Map1_C_1. Function SetUpPlayers will not be processed.
+[2018.07.26-11.02.11:716][ 94]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.07.26-11.02.11:792][ 94]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.07.26-11.02.14:313][172]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.26-11.02.19:310][326]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.26-11.02.19:948][346]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: GridBase_C_33, ObjOuter: /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel 
+[2018.07.26-11.02.22:195][417]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: GridBase_C_33, ObjOuter: /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel 
+[2018.07.26-11.02.22:892][439]LogScript: Warning: Accessed None trying to read property SelectedGrid
+	GameplayPlayerController_C /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel.GameplayPlayerController_C_1
+	Function /Game/Blueprints/Gameplay/GameplayPlayerController.GameplayPlayerController_C:ExecuteUbergraph_GameplayPlayerController:0396
+[2018.07.26-11.02.22:892][439]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property SelectedGrid from function: 'ExecuteUbergraph_GameplayPlayerController' from node: Spawn Builds in graph: EventGraph in object: GameplayPlayerController with description: Accessed None trying to read property SelectedGrid
+[2018.07.26-11.02.24:323][484]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.26-11.02.24:608][493]LogBlueprintUserMessages: [GridBase_C_13] Server: X=-2.000 Y=1421.000 Z=50.000
+[2018.07.26-11.02.24:627][493]LogBlueprintUserMessages: [GridBase_C_5] Client 1: X=-2.000 Y=1421.000 Z=50.000
+[2018.07.26-11.02.27:022][569]LogBlueprintUserMessages: [GridBase_C_11] Server: X=-302.000 Y=1721.000 Z=50.000
+[2018.07.26-11.02.27:024][569]LogBlueprintUserMessages: [GridBase_C_4] Client 1: X=-302.000 Y=1721.000 Z=50.000
+[2018.07.26-11.02.28:908][627]LogNetPackageMap: Warning: UPackageMapClient::InternalLoadObject: Unable to resolve default guid from client: PathName: GridBase_C_27, ObjOuter: /Game/Maps/UEDPIE_1_Map1.Map1:PersistentLevel 
+[2018.07.26-11.02.29:328][640]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.26-11.02.29:877][656]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.07.26-11.02.29:907][656]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.26-11.02.29:907][656]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.26-11.02.29:908][656]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.26-11.02.29:908][656]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.26-11.02.29:908][656]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2018.07.26-11.02.29:927][656]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2018.07.26-11.02.29:969][656]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.26-11.02.29:969][656]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.26-11.02.29:969][656]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.26-11.02.29:969][656]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.26-11.02.29:969][656]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.26-11.02.29:970][656]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.07.26-11.02.30:009][656]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61508, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.07.26-11.02.30:009][656]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61508, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.07.26-11.02.30
+[2018.07.26-11.02.30:009][656]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61508, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.07.26-11.02.30:009][656]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.07.26-11.02.30:009][656]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.07.26-11.02.30
+[2018.07.26-11.02.30:009][656]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.07.26-11.02.30:012][656]LogExit: GameNetDriver None shut down
+[2018.07.26-11.02.30:012][656]LogExit: GameNetDriver None shut down
+[2018.07.26-11.02.30:097][657]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.07.26-11.02.30:097][657]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.26-11.02.30:097][657]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.07.26-11.02.30:098][657]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.26-11.03.31:118][506]LogRenderer: Reallocating scene render targets to support 1208x692 Format 9 NumSamples 1 (Frame:1).
+[2018.07.26-11.03.31:363][515]BlueprintLog: New page: Compile MyGameState
+[2018.07.26-11.03.32:324][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/MyGameState" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset" SILENT=true
+[2018.07.26-11.03.32:372][534]LogSavePackage: Save=40.87ms
+[2018.07.26-11.03.32:372][534]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/MyGameState1E342A164C4487DBE74C4AAB0ADDB9A8.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset'
+[2018.07.26-11.03.32:374][534]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset
+[2018.07.26-11.04.23:042][295]BlueprintLog: New page: Compile MyGameState
+[2018.07.26-11.04.24:006][316]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/MyGameState" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset" SILENT=true
+[2018.07.26-11.04.24:054][316]LogSavePackage: Save=40.96ms
+[2018.07.26-11.04.24:054][316]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/MyGameStateB7398E6B45E52C70648EE28970F50314.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset'
+[2018.07.26-11.04.24:056][316]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset
+[2018.07.26-11.04.38:495][586]BlueprintLog: New page: Compile MyGameState
+[2018.07.26-11.04.47:669][420]BlueprintLog: New page: Compile MyGameState
+[2018.07.26-11.05.16:003][945]BlueprintLog: New page: Compile MyGameState
+[2018.07.26-11.05.16:907][966]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/MyGameState" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset" SILENT=true
+[2018.07.26-11.05.16:956][966]LogSavePackage: Save=42.61ms
+[2018.07.26-11.05.16:956][966]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/MyGameState377F4D3544DB312F65D5BFBF84885F85.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset'
+[2018.07.26-11.05.16:959][966]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset
+[2018.07.26-11.05.57:322][120]BlueprintLog: New page: Compile MyGameState
+[2018.07.26-11.05.58:150][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/MyGameState" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset" SILENT=true
+[2018.07.26-11.05.58:200][136]LogSavePackage: Save=43.48ms
+[2018.07.26-11.05.58:200][136]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/MyGameState3D19E879436C5578A04BE9AF341E4068.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset'
+[2018.07.26-11.05.58:202][136]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset
+[2018.07.26-11.12.37:242][149]BlueprintLog: New page: Compile MyGameState
+[2018.07.26-11.12.38:204][170]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Gameplay/MyGameState" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset" SILENT=true
+[2018.07.26-11.12.38:273][170]LogSavePackage: Save=61.71ms
+[2018.07.26-11.12.38:273][170]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/MyGameState4D9B2D8146F2B573303E219BB18E9EBE.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset'
+[2018.07.26-11.12.38:275][170]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/MyGameState.uasset
+[2018.07.26-11.16.59:349][393]BlueprintLog: New page: Compile GameplayPlayerChild
+[2018.07.26-11.17.26:002][104]BlueprintLog: New page: Compile GameplayPlayerChild
+[2018.07.26-11.17.26:624][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/GameplayUI/GameplayPlayerChild" FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/GameplayPlayerChild.uasset" SILENT=true
+[2018.07.26-11.17.26:718][126]LogSavePackage: Save=86.40ms
+[2018.07.26-11.17.26:719][126]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerChild0389A5934F2F4315D1CA46987E313D2C.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/GameplayPlayerChild.uasset'
+[2018.07.26-11.17.26:721][126]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/UI/GameplayUI/GameplayPlayerChild.uasset
+[2018.07.26-13.01.20:651][622]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.26-13.01.20:727][622]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.26-13.01.20:790][622]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.07.26-13.01.21:223][623]Cmd: QUIT_EDITOR
+[2018.07.26-13.01.22:305][623]LogExit: Preparing to exit.
+[2018.07.26-13.01.22:761][623]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/' was aborted.
+[2018.07.26-13.01.22:818][623]LogExit: Editor shut down
+[2018.07.26-13.01.22:826][623]LogExit: Transaction tracking system shut down
+[2018.07.26-13.01.22:943][623]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.26-13.01.22:944][623]LogDirectoryWatcher: A directory notification for '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/' was aborted.
+[2018.07.26-13.01.22:944][623]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.26-13.01.22:944][623]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.26-13.01.22:944][623]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.26-13.01.23:330][623]LogExit: Object subsystem successfully closed.
+[2018.07.26-13.01.23:344][623]LogD3D11RHI: Shutdown
+[2018.07.26-13.01.23:344][623]LogD3D11RHI: CleanupD3DDevice
+[2018.07.26-13.01.23:424][623]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.26-13.01.23:762][623]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (540)
+[2018.07.26-13.01.23:762][623]LogModuleManager: Shutting down and abandoning module Voice (538)
+[2018.07.26-13.01.23:762][623]LogModuleManager: Shutting down and abandoning module SequencerWidgets (536)
+[2018.07.26-13.01.23:762][623]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2018.07.26-13.01.23:762][623]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2018.07.26-13.01.23:776][623]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.07.26-13.01.23:776][623]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.07.26-13.01.23:777][623]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.07.26-13.01.23:786][623]LogDirectoryWatcher: A directory notification for 'E:/Tournament/UE_4.17/FeaturePacks/' was aborted.
+[2018.07.26-13.01.23:788][623]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.07.26-13.01.23:788][623]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.07.26-13.01.23:788][623]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.07.26-13.01.23:788][623]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Collections/' was aborted.
+[2018.07.26-13.01.23:788][623]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Developers/Konstantin/Collections/' was aborted.
+[2018.07.26-13.01.23:788][623]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Collections/' was aborted.
+[2018.07.26-13.01.23:788][623]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.07.26-13.01.23:810][623]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.07.26-13.01.23:810][623]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.07.26-13.01.23:819][623]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.07.26-13.01.23:819][623]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.07.26-13.01.23:819][623]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.07.26-13.01.23:819][623]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.07.26-13.01.23:819][623]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.07.26-13.01.23:819][623]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.07.26-13.01.23:842][623]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.07.26-13.01.23:842][623]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.07.26-13.01.23:842][623]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.07.26-13.01.23:842][623]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.07.26-13.01.23:842][623]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.07.26-13.01.23:856][623]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module Media (481)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (478)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module CharacterAI (476)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module AudioCapture (474)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module SequenceRecorder (473)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module SmartSnapping (470)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module SessionServices (468)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module ViewportSnapping (466)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module ViewportInteraction (464)
+[2018.07.26-13.01.23:893][623]LogModuleManager: Shutting down and abandoning module ClothPainter (462)
+[2018.07.26-13.01.23:907][623]LogModuleManager: Shutting down and abandoning module LogVisualizer (460)
+[2018.07.26-13.01.23:908][623]LogModuleManager: Shutting down and abandoning module IntroTutorials (458)
+[2018.07.26-13.01.23:913][623]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (457)
+[2018.07.26-13.01.23:933][623]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (454)
+[2018.07.26-13.01.23:938][623]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (452)
+[2018.07.26-13.01.23:938][623]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (450)
+[2018.07.26-13.01.23:938][623]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (449)
+[2018.07.26-13.01.24:615][623]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (446)
+[2018.07.26-13.01.24:615][623]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (444)
+[2018.07.26-13.01.24:615][623]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (442)
+[2018.07.26-13.01.24:615][623]LogModuleManager: Shutting down and abandoning module InputBindingEditor (440)
+[2018.07.26-13.01.24:630][623]LogModuleManager: Shutting down and abandoning module MergeActors (438)
+[2018.07.26-13.01.24:638][623]LogModuleManager: Shutting down and abandoning module SizeMap (436)
+[2018.07.26-13.01.24:639][623]LogModuleManager: Shutting down and abandoning module TreeMap (434)
+[2018.07.26-13.01.24:673][623]LogModuleManager: Shutting down and abandoning module ReferenceViewer (432)
+[2018.07.26-13.01.24:673][623]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (430)
+[2018.07.26-13.01.24:685][623]LogModuleManager: Shutting down and abandoning module LocalizationService (429)
+[2018.07.26-13.01.24:692][623]LogModuleManager: Shutting down and abandoning module HardwareTargeting (426)
+[2018.07.26-13.01.24:692][623]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (424)
+[2018.07.26-13.01.24:703][623]LogModuleManager: Shutting down and abandoning module UndoHistory (422)
+[2018.07.26-13.01.24:703][623]LogModuleManager: Shutting down and abandoning module XmlParser (420)
+[2018.07.26-13.01.24:703][623]LogModuleManager: Shutting down and abandoning module Blutility (418)
+[2018.07.26-13.01.24:703][623]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (416)
+[2018.07.26-13.01.24:703][623]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (415)
+[2018.07.26-13.01.24:703][623]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (412)
+[2018.07.26-13.01.24:703][623]LogModuleManager: Shutting down and abandoning module SettingsEditor (410)
+[2018.07.26-13.01.24:706][623]LogModuleManager: Shutting down and abandoning module ProjectLauncher (408)
+[2018.07.26-13.01.24:711][623]LogModuleManager: Shutting down and abandoning module SessionFrontend (406)
+[2018.07.26-13.01.24:720][623]LogModuleManager: Shutting down and abandoning module ProfilerClient (404)
+[2018.07.26-13.01.24:729][623]LogModuleManager: Shutting down and abandoning module DeviceManager (402)
+[2018.07.26-13.01.24:736][623]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (401)
+[2018.07.26-13.01.24:790][623]LogModuleManager: Shutting down and abandoning module AutomationController (398)
+[2018.07.26-13.01.24:790][623]LogModuleManager: Shutting down and abandoning module AutomationWindow (396)
+[2018.07.26-13.01.24:829][623]LogModuleManager: Shutting down and abandoning module Layers (394)
+[2018.07.26-13.01.24:835][623]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (392)
+[2018.07.26-13.01.24:835][623]LogModuleManager: Shutting down and abandoning module DetailCustomizations (390)
+[2018.07.26-13.01.24:843][623]LogModuleManager: Shutting down and abandoning module PackagesDialog (388)
+[2018.07.26-13.01.24:843][623]LogModuleManager: Shutting down and abandoning module Persona (386)
+[2018.07.26-13.01.24:857][623]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (385)
+[2018.07.26-13.01.24:857][623]LogModuleManager: Shutting down and abandoning module AnimGraph (383)
+[2018.07.26-13.01.24:867][623]LogModuleManager: Shutting down and abandoning module Kismet (380)
+[2018.07.26-13.01.24:877][623]LogModuleManager: Shutting down and abandoning module ClassViewer (378)
+[2018.07.26-13.01.24:879][623]LogModuleManager: Shutting down and abandoning module Toolbox (376)
+[2018.07.26-13.01.24:879][623]LogModuleManager: Shutting down and abandoning module ModuleUI (374)
+[2018.07.26-13.01.24:879][623]LogModuleManager: Shutting down and abandoning module MovieSceneTools (372)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module OutputLog (370)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module GammaUI (368)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module Documentation (366)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (364)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module MovieScene (362)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module Niagara (360)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module NiagaraEditor (359)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (356)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module LauncherPlatform (354)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module AnalyticsET (352)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module PortalServices (350)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module PortalRpc (348)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module MessagingRpc (346)
+[2018.07.26-13.01.24:896][623]LogModuleManager: Shutting down and abandoning module AIModule (344)
+[2018.07.26-13.01.24:897][623]LogModuleManager: Shutting down and abandoning module GameplayDebugger (343)
+[2018.07.26-13.01.24:897][623]LogModuleManager: Shutting down and abandoning module AITestSuite (341)
+[2018.07.26-13.01.24:897][623]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module SteamVRController (334)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (332)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (330)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module OculusInput (328)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (326)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (324)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module CableComponent (322)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (320)
+[2018.07.26-13.01.25:055][623]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (318)
+[2018.07.26-13.01.25:098][623]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.07.26-13.01.25:098][623]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.07.26-13.01.25:114][623]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.07.26-13.01.25:114][623]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.07.26-13.01.25:115][623]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.07.26-13.01.25:115][623]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.07.26-13.01.25:115][623]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.07.26-13.01.25:154][623]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.07.26-13.01.25:183][623]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.07.26-13.01.25:183][623]LogModuleManager: Shutting down and abandoning module DesktopPlatform (299)
+[2018.07.26-13.01.25:183][623]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.07.26-13.01.25:183][623]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.07.26-13.01.25:183][623]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.07.26-13.01.25:183][623]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.07.26-13.01.25:199][623]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.07.26-13.01.25:199][623]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.07.26-13.01.25:199][623]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.07.26-13.01.25:199][623]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.07.26-13.01.25:200][623]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.07.26-13.01.25:211][623]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.07.26-13.01.25:211][623]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.07.26-13.01.25:238][623]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.07.26-13.01.25:268][623]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.07.26-13.01.25:268][623]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.07.26-13.01.25:269][623]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.07.26-13.01.25:269][623]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.07.26-13.01.25:269][623]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.07.26-13.01.25:269][623]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.07.26-13.01.25:269][623]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.07.26-13.01.25:269][623]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.07.26-13.01.25:269][623]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.07.26-13.01.25:269][623]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.07.26-13.01.25:369][623]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.07.26-13.01.25:469][623]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.07.26-13.01.25:499][623]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.07.26-13.01.25:499][623]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.07.26-13.01.25:499][623]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.07.26-13.01.25:499][623]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.07.26-13.01.25:499][623]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.07.26-13.01.25:500][623]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.07.26-13.01.25:500][623]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (236)
+[2018.07.26-13.01.25:500][623]LogModuleManager: Shutting down and abandoning module AdvancedSessions (234)
+[2018.07.26-13.01.25:500][623]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2018.07.26-13.01.25:500][623]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2018.07.26-13.01.25:500][623]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2018.07.26-13.01.25:501][623]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2018.07.26-13.01.25:501][623]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2018.07.26-13.01.25:501][623]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2018.07.26-13.01.25:501][623]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2018.07.26-13.01.25:501][623]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2018.07.26-13.01.25:501][623]LogModuleManager: Shutting down and abandoning module MediaAssets (216)
+[2018.07.26-13.01.25:501][623]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.07.26-13.01.25:516][623]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.07.26-13.01.25:516][623]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.07.26-13.01.25:516][623]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.07.26-13.01.25:516][623]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.07.26-13.01.25:516][623]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.07.26-13.01.25:517][623]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.07.26-13.01.25:517][623]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.07.26-13.01.25:517][623]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.07.26-13.01.25:517][623]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.07.26-13.01.25:517][623]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.07.26-13.01.25:517][623]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.07.26-13.01.25:517][623]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.07.26-13.01.25:517][623]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module Core (174)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2018.07.26-13.01.25:519][623]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (152)
+[2018.07.26-13.01.25:520][623]LogModuleManager: Shutting down and abandoning module DerivedDataCache (150)
+[2018.07.26-13.01.25:595][623]LogDerivedDataCache: Shutdown
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2018.07.26-13.01.25:595][623]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (93)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (91)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (89)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (87)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.07.26-13.01.25:596][623]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.07.26-13.01.25:596][623]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.26-13.01.25:596][623]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.26-13.01.25:597][623]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.26-13.01.25:597][623]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.26-13.01.25:597][623]LogOnline: Display: Unloading online subsystem: STEAM
+[2018.07.26-13.01.25:597][623]LogOnline: Display: Unloading online subsystem: NULL
+[2018.07.26-13.01.25:597][623]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.26-13.01.25:597][623]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.26-13.01.25:597][623]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.07.26-13.01.25:612][623]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD0C23A3-4C14-0BCD-1B0F-F48C6A4DED6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=b19575cd4c512bae2d0928b74a89dbe6%7Cb5027df129bc43d1b0dba9f66342505d%7Ce65336ce-a652-4926-93d0-de7cfdb38018&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.26-13.01.25:612][623]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDD0C23A3-4C14-0BCD-1B0F-F48C6A4DED6F%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=b19575cd4c512bae2d0928b74a89dbe6%7Cb5027df129bc43d1b0dba9f66342505d%7Ce65336ce-a652-4926-93d0-de7cfdb38018&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.26-13.01.25:639][623]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.26-13.01.25:640][623]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.26-13.01.25:640][623]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.26-13.01.25:640][623]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.26-13.01.25:640][623]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.26-13.01.25:640][623]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.26-13.01.25:640][623]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.26-13.01.25:640][623]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.26-13.01.25:644][623]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.26-13.01.25:647][623]LogExit: Exiting.
+[2018.07.26-13.01.25:656][623]Log file closed, 07/26/18 21:01:25
