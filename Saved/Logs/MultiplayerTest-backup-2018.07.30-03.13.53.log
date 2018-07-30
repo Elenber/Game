@@ -1,0 +1,1011 @@
+﻿Log file open, 07/30/18 02:21:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: MultiplayerTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1193404062) SRandInit(1193404062).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.168841
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line:  
+LogInit: Base directory: E:/Tournament/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.29-18.21.45:247][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.29-18.21.45:248][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.29-18.21.45:257][  0]LogInit: Computer: KONSTANTIN-ПК
+[2018.07.29-18.21.45:257][  0]LogInit: User: Konstantin
+[2018.07.29-18.21.45:257][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.29-18.21.45:257][  0]LogInit: High frequency timer resolution =3.020546 MHz
+[2018.07.29-18.21.45:257][  0]LogMemory: Memory total: Physical=6.0GB (6GB approx)
+[2018.07.29-18.21.45:257][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.29-18.21.45:257][  0]LogMemory: Process Physical Memory: 279.23 MB used, 279.23 MB peak
+[2018.07.29-18.21.45:257][  0]LogMemory: Process Virtual Memory: 276.74 MB used, 276.74 MB peak
+[2018.07.29-18.21.45:257][  0]LogMemory: Physical Memory: 1658.63 MB used,  4449.25 MB free, 6107.88 MB total
+[2018.07.29-18.21.45:257][  0]LogMemory: Virtual Memory: 657.77 MB used,  4449.25 MB free, 8388608.00 MB total
+[2018.07.29-18.21.45:383][  0]LogInit: Using OS detected language (ru-RU).
+[2018.07.29-18.21.45:383][  0]LogInit: Using OS detected locale (ru-RU).
+[2018.07.29-18.21.45:387][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the language.
+[2018.07.29-18.21.45:387][  0]LogTextLocalizationManager: No localization for 'ru-RU' exists, so 'en' will be used for the locale.
+[2018.07.29-18.21.46:117][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.29-18.21.46:126][  0]LogD3D11RHI:    0. 'AMD Radeon HD 6670' (Feature Level 11_0)
+[2018.07.29-18.21.46:126][  0]LogD3D11RHI:       1010/0/2797 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.07.29-18.21.46:126][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.29-18.21.46:130][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.29-18.21.46:130][  0]LogD3D11RHI:     GPU DeviceId: 0x6758 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.29-18.21.46:130][  0]LogWindows: EnumDisplayDevices:
+[2018.07.29-18.21.46:130][  0]LogWindows:    0. 'AMD Radeon HD 6670' (P:1 D:1)
+[2018.07.29-18.21.46:130][  0]LogWindows:    1. 'AMD Radeon HD 6670' (P:0 D:0)
+[2018.07.29-18.21.46:131][  0]LogWindows:    2. 'RDPDD Chained DD' (P:0 D:0)
+[2018.07.29-18.21.46:131][  0]LogWindows:    3. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.07.29-18.21.46:131][  0]LogWindows:    4. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.07.29-18.21.46:131][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:2 
+[2018.07.29-18.21.46:131][  0]LogD3D11RHI:     Adapter Name: AMD Radeon HD 6670
+[2018.07.29-18.21.46:131][  0]LogD3D11RHI:   Driver Version: Catalyst 15.7.1 (internal:15.200.1062.1004, unified:15.200.1062.1004)
+[2018.07.29-18.21.46:131][  0]LogD3D11RHI:      Driver Date: 8-3-2015
+[2018.07.29-18.21.46:131][  0]LogRHI: Texture pool is 707 MB (70% of 1010 MB)
+[2018.07.29-18.21.46:154][  0]LogD3D11RHI: AMD Pre GCN architecture detected, some driver workarounds will be in place
+[2018.07.29-18.21.46:160][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.29-18.21.46:172][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 1)
+[2018.07.29-18.21.46:172][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Intermediate/Shaders/WorkingDirectory/6888/).
+[2018.07.29-18.21.46:172][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Konstantin/AppData/Local/Temp/UnrealShaderWorkingDir/E577A42B4452E73AB078BD959531385C/'.
+[2018.07.29-18.21.46:172][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.29-18.21.47:164][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.29-18.21.47:213][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.29-18.21.47:263][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.29-18.21.47:312][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.29-18.21.47:363][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.29-18.21.47:413][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.29-18.21.47:462][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.29-18.21.47:511][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.29-18.21.47:552][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.29-18.21.47:602][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.29-18.21.47:650][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.29-18.21.47:698][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.29-18.21.47:746][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.29-18.21.47:793][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.29-18.21.47:840][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.29-18.21.47:934][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.29-18.21.47:934][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.29-18.21.47:968][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.29-18.21.48:050][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.29-18.21.48:076][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.29-18.21.48:122][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.29-18.21.48:169][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.29-18.21.48:216][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.29-18.21.48:263][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.29-18.21.48:263][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.29-18.21.48:644][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.29-18.21.48:759][  0]LogDerivedDataCache: Loaded boot cache 0.12s 93MB C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.29-18.21.48:759][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2018.07.29-18.21.48:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.29-18.21.48:759][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.29-18.21.48:759][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.29-18.21.48:759][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.29-18.21.48:780][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.29-18.21.48:792][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Konstantin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.29-18.21.48:804][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.29-18.21.48:805][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.29-18.21.48:805][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.29-18.21.48:805][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.29-18.21.49:127][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2018.07.29-18.21.49:323][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.29-18.21.49:329][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2018.07.29-18.21.49:703][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.29-18.21.49:738][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.29-18.21.49:738][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.29-18.21.49:738][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.29-18.21.49:738][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.29-18.21.49:738][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.29-18.21.50:183][  0]LogNetVersion: MultiplayerTest , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1647500180)
+[2018.07.29-18.21.50:368][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 1 prioritized culture(s) in 0.018633 seconds
+[2018.07.29-18.21.50:374][  0]LogUObjectArray: 35832 objects as part of root set at end of initial load.
+[2018.07.29-18.21.50:374][  0]LogUObjectAllocator: 7742872 out of 0 bytes used by permanent object pool.
+[2018.07.29-18.21.50:374][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.29-18.21.53:066][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.29-18.21.53:100][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.29-18.21.53:700][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.07.29-18.21.54:092][  0]SourceControl: Source control is disabled
+[2018.07.29-18.21.55:052][  0]LogOcInput: OculusInput pre-init called
+[2018.07.29-18.21.55:291][  0]LogEngine: Initializing Engine...
+[2018.07.29-18.21.55:293][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.29-18.21.55:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.29-18.21.55:569][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.29-18.21.55:685][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.29-18.21.55:699][  0]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-18.21.55:741][  0]LogInit: FAudioDevice initialized.
+[2018.07.29-18.21.55:937][  0]LogDerivedDataCache: Saved boot cache 0.20s 93MB C:/Users/Konstantin/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2018.07.29-18.21.55:960][  0]LogInit: Texture streaming: Enabled
+[2018.07.29-18.21.56:043][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.29-18.21.56:233][  0]LogInit: Transaction tracking system initialized
+[2018.07.29-18.21.56:498][  0]BlueprintLog: New page: Editor Load
+[2018.07.29-18.21.57:245][  0]LocalizationService: Localization service is disabled
+[2018.07.29-18.21.58:352][  0]LogConsoleResponse: Display: 
+[2018.07.29-18.21.58:547][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.29-18.21.58:547][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.29-18.21.58:547][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.29-18.21.59:367][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/' took 0.02s
+[2018.07.29-18.21.59:409][  0]Cmd: MAP LOAD FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Maps/Menu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.29-18.21.59:409][  0]LightingResults: New page: Lighting Build
+[2018.07.29-18.21.59:446][  0]MapCheck: New page: Map Check
+[2018.07.29-18.21.59:446][  0]LightingResults: New page: Lighting Build
+[2018.07.29-18.22.00:389][  0]LogAIModule: Creating AISystem for world Menu
+[2018.07.29-18.22.00:390][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.29-18.22.00:405][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.29-18.22.00:464][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 58.588ms to complete.
+[2018.07.29-18.22.00:464][  0]LogFileHelpers: Loading map 'Menu' took 1.055
+[2018.07.29-18.22.00:612][  0]LogCollectionManager: Loaded 0 collections in 0.002113 seconds
+[2018.07.29-18.22.00:685][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Collections/' took 0.01s
+[2018.07.29-18.22.00:685][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Developers/Konstantin/Collections/' took 0.01s
+[2018.07.29-18.22.00:685][  0]LogFileCache: Scanning file cache for directory 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Collections/' took 0.01s
+[2018.07.29-18.22.00:685][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.29-18.22.00:695][  0]LogContentBrowser: Native class hierarchy populated in 0.0101 seconds. Added 2408 classes and 503 folders.
+[2018.07.29-18.22.00:748][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.07.29-18.22.00:801][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2018.07.29-18.22.00:846][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.07.29-18.22.00:922][  0]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.29-18.22.00:924][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.29-18.22.00:930][  0]LogSlate: Took 0.000182 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.29-18.22.00:931][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2018.07.29-18.22.01:077][  0]LogRenderer: Reallocating scene render targets to support 1120x572 Format 9 NumSamples 1 (Frame:1).
+[2018.07.29-18.22.01:310][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2018.07.29-18.22.01:310][  0]LogLoad: (Engine Initialization) Total time: 17.75 seconds
+[2018.07.29-18.22.01:311][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.29-18.22.01:311][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2018.07.29-18.22.01:311][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2018.07.29-18.22.01:670][  0]SourceControl: On branch master
+[2018.07.29-18.22.01:670][  0]SourceControl: Your branch is up to date with 'origin/master'.
+[2018.07.29-18.22.01:671][  0]SourceControl: Changes to be committed:
+[2018.07.29-18.22.01:671][  0]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2018.07.29-18.22.01:671][  0]SourceControl: 	new file:   Content/Blueprints/Gameplay/Pawns/AIController.uasset
+[2018.07.29-18.22.01:671][  0]SourceControl: Changes not staged for commit:
+[2018.07.29-18.22.01:671][  0]SourceControl:   (use "git add/rm <file>..." to update what will be committed)
+[2018.07.29-18.22.01:671][  0]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2018.07.29-18.22.01:671][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Builds/Barracs.uasset
+[2018.07.29-18.22.01:671][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Builds/MainBuld.uasset
+[2018.07.29-18.22.01:672][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Builds/Tower.uasset
+[2018.07.29-18.22.01:672][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Grid/GridBase.uasset
+[2018.07.29-18.22.01:672][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/MyGameState.uasset
+[2018.07.29-18.22.01:672][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/PawnCamera.uasset
+[2018.07.29-18.22.01:672][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/AIController.uasset
+[2018.07.29-18.22.01:672][  0]SourceControl: 	modified:   Content/Blueprints/Gameplay/Pawns/Suicide/SuicideSoldier.uasset
+[2018.07.29-18.22.01:672][  0]SourceControl: 	modified:   Content/Maps/Map1.umap
+[2018.07.29-18.22.01:673][  0]SourceControl: 	modified:   Intermediate/CachedAssetRegistry.bin
+[2018.07.29-18.22.01:673][  0]SourceControl: 	modified:   Saved/AutoScreenshot.png
+[2018.07.29-18.22.01:673][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Barracs_Auto2.uasset
+[2018.07.29-18.22.01:673][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Blueprints/Gameplay/GameplayPlayerController_Auto1.uasset
+[2018.07.29-18.22.01:673][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Blueprints/Gameplay/PawnCamera_Auto1.uasset
+[2018.07.29-18.22.01:673][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Blueprints/Gameplay/PawnCamera_Auto2.uasset
+[2018.07.29-18.22.01:673][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/Map1_Auto1.umap
+[2018.07.29-18.22.01:674][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/Map1_Auto3.umap
+[2018.07.29-18.22.01:674][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/Map1_Auto4.umap
+[2018.07.29-18.22.01:674][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/UEDPCMap1.umap
+[2018.07.29-18.22.01:674][  0]SourceControl: 	modified:   Saved/Autosaves/Game/Maps/UEDPCMenu.umap
+[2018.07.29-18.22.01:674][  0]SourceControl: 	modified:   Saved/Autosaves/Game/UI/GameplayUI/NewChatWindow_Auto5.uasset
+[2018.07.29-18.22.01:674][  0]SourceControl: 	modified:   Saved/Autosaves/Game/UI/GameplayUI/NewChatWindow_Auto6.uasset
+[2018.07.29-18.22.01:674][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-1A04E0E140CBC32B6A3FB7A003185A3E/CrashReportClient.ini
+[2018.07.29-18.22.01:675][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-1EB8265D4FCCD23EA9AF15A32E54AC5C/CrashReportClient.ini
+[2018.07.29-18.22.01:675][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-5402322841AD4CB682EAD8B57FE7EC56/CrashReportClient.ini
+[2018.07.29-18.22.01:675][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-5CA388004394EFE7B46C7581E2238E52/CrashReportClient.ini
+[2018.07.29-18.22.01:675][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-63C796B9412D512A504BC8BC8ADCDB33/CrashReportClient.ini
+[2018.07.29-18.22.01:675][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-789D0F854E0B82D16D4379B615E3DEF6/CrashReportClient.ini
+[2018.07.29-18.22.01:676][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-9FD3AC7B46629446F7752FB715118FC2/CrashReportClient.ini
+[2018.07.29-18.22.01:676][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-BE0CCAB84E66825D408BCDB33E7FB731/CrashReportClient.ini
+[2018.07.29-18.22.01:676][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-C447A10948ABEDFDFAAE818EA60380F8/CrashReportClient.ini
+[2018.07.29-18.22.01:676][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-CE730A3D4470B1295C9482A9FD1C68D7/CrashReportClient.ini
+[2018.07.29-18.22.01:676][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-D3E04DDC4145BB866539CDB7D7D0483B/CrashReportClient.ini
+[2018.07.29-18.22.01:677][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-D904345F46D0E2A0EC3F3182033A9806/CrashReportClient.ini
+[2018.07.29-18.22.01:677][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-D9BB4376439621B2E85266AD1B50968A/CrashReportClient.ini
+[2018.07.29-18.22.01:677][  0]SourceControl: 	deleted:    Saved/Config/CrashReportClient/UE4CC-Windows-F4EACA024A65B73D73E87BAF1DAC4DA6/CrashReportClient.ini
+[2018.07.29-18.22.01:677][  0]SourceControl: 	modified:   Saved/Config/Windows/Editor.ini
+[2018.07.29-18.22.01:677][  0]SourceControl: 	modified:   Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2018.07.29-18.22.01:677][  0]SourceControl: 	modified:   Saved/Config/Windows/Engine.ini
+[2018.07.29-18.22.01:678][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.07.27-00.39.28.log
+[2018.07.29-18.22.01:678][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.07.27-02.56.20.log
+[2018.07.29-18.22.01:678][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.07.27-13.50.18.log
+[2018.07.29-18.22.01:678][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest-backup-2018.07.27-15.31.23.log
+[2018.07.29-18.22.01:678][  0]SourceControl: 	modified:   Saved/Logs/MultiplayerTest.log
+[2018.07.29-18.22.01:678][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.27-01.24.54.log
+[2018.07.29-18.22.01:678][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.27-01.26.39.log
+[2018.07.29-18.22.01:679][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.27-01.26.58.log
+[2018.07.29-18.22.01:679][  0]SourceControl: 	deleted:    Saved/Logs/MultiplayerTest_2-backup-2018.07.27-03.39.23.log
+[2018.07.29-18.22.01:679][  0]SourceControl: 	modified:   Saved/Logs/MultiplayerTest_2.log
+[2018.07.29-18.22.01:679][  0]SourceControl: Untracked files:
+[2018.07.29-18.22.01:679][  0]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2018.07.29-18.22.01:679][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Barracs_Auto1.uasset
+[2018.07.29-18.22.01:679][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Barracs_Auto3.uasset
+[2018.07.29-18.22.01:679][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Barracs_Auto8.uasset
+[2018.07.29-18.22.01:680][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Tower_Auto1.uasset
+[2018.07.29-18.22.01:680][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Tower_Auto2.uasset
+[2018.07.29-18.22.01:680][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Tower_Auto3.uasset
+[2018.07.29-18.22.01:680][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Tower_Auto4.uasset
+[2018.07.29-18.22.01:680][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Tower_Auto5.uasset
+[2018.07.29-18.22.01:680][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Builds/Tower_Auto7.uasset
+[2018.07.29-18.22.01:680][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/DecalInstances/
+[2018.07.29-18.22.01:681][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/PawnCamera_Auto4.uasset
+[2018.07.29-18.22.01:681][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/PawnCamera_Auto5.uasset
+[2018.07.29-18.22.01:681][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/PawnCamera_Auto6.uasset
+[2018.07.29-18.22.01:681][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/PawnCamera_Auto8.uasset
+[2018.07.29-18.22.01:681][  0]SourceControl: 	Saved/Autosaves/Game/Blueprints/Gameplay/Pawns/
+[2018.07.29-18.22.01:681][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Map1_Auto6.umap
+[2018.07.29-18.22.01:681][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Map1_Auto8.umap
+[2018.07.29-18.22.01:682][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Menu_Auto2.umap
+[2018.07.29-18.22.01:682][  0]SourceControl: 	Saved/Autosaves/Game/Maps/Menu_Auto6.umap
+[2018.07.29-18.22.01:682][  0]SourceControl: 	Saved/Autosaves/Game/Maps/UEDPCMap2.umap
+[2018.07.29-18.22.01:682][  0]SourceControl: 	Saved/Autosaves/Game/UI/GameplayUI/NewChatMessageChild_Auto4.uasset
+[2018.07.29-18.22.01:682][  0]SourceControl: 	Saved/Autosaves/Game/UI/GameplayUI/NewChatWindow_Auto4.uasset
+[2018.07.29-18.22.01:682][  0]SourceControl: 	Saved/Autosaves/Game/UI/MainMenuUI/
+[2018.07.29-18.22.01:682][  0]SourceControl: 	Saved/Backup/AIController_2018-07-30-01-33-05.uasset
+[2018.07.29-18.22.01:682][  0]SourceControl: 	Saved/Backup/AIController_2018-07-30-01-49-12.uasset
+[2018.07.29-18.22.01:683][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-28-00-40-48.uasset
+[2018.07.29-18.22.01:683][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-16-20-34.uasset
+[2018.07.29-18.22.01:683][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-16-31-25.uasset
+[2018.07.29-18.22.01:683][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-16-38-35.uasset
+[2018.07.29-18.22.01:683][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-17-25-48.uasset
+[2018.07.29-18.22.01:683][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-17-35-45.uasset
+[2018.07.29-18.22.01:683][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-18-45-01.uasset
+[2018.07.29-18.22.01:683][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-23-32-05.uasset
+[2018.07.29-18.22.01:683][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-23-38-06.uasset
+[2018.07.29-18.22.01:684][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-23-44-00.uasset
+[2018.07.29-18.22.01:684][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-23-49-09.uasset
+[2018.07.29-18.22.01:684][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-29-23-55-22.uasset
+[2018.07.29-18.22.01:684][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-30-00-06-43.uasset
+[2018.07.29-18.22.01:684][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-30-00-23-45.uasset
+[2018.07.29-18.22.01:684][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-30-01-33-05.uasset
+[2018.07.29-18.22.01:684][  0]SourceControl: 	Saved/Backup/Barracs_2018-07-30-01-49-12.uasset
+[2018.07.29-18.22.01:684][  0]SourceControl: 	Saved/Backup/Decal_2018-07-28-03-49-40.uasset
+[2018.07.29-18.22.01:685][  0]SourceControl: 	Saved/Backup/Decal_2018-07-28-04-17-36.uasset
+[2018.07.29-18.22.01:685][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-28-01-03-51.uasset
+[2018.07.29-18.22.01:685][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-28-01-16-08.uasset
+[2018.07.29-18.22.01:685][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-28-01-22-42.uasset
+[2018.07.29-18.22.01:685][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-28-01-46-34.uasset
+[2018.07.29-18.22.01:685][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-28-02-36-27.uasset
+[2018.07.29-18.22.01:685][  0]SourceControl: 	Saved/Backup/GameplayPlayerController_2018-07-28-02-57-43.uasset
+[2018.07.29-18.22.01:686][  0]SourceControl: 	Saved/Backup/GameplayWB_2018-07-27-21-14-43.uasset
+[2018.07.29-18.22.01:686][  0]SourceControl: 	Saved/Backup/GameplayWB_2018-07-27-21-20-59.uasset
+[2018.07.29-18.22.01:686][  0]SourceControl: 	Saved/Backup/GameplayWB_2018-07-27-21-52-42.uasset
+[2018.07.29-18.22.01:686][  0]SourceControl: 	Saved/Backup/GridBase_2018-07-30-01-13-03.uasset
+[2018.07.29-18.22.01:686][  0]SourceControl: 	Saved/Backup/MainBuld_2018-07-30-01-42-29.uasset
+[2018.07.29-18.22.01:686][  0]SourceControl: 	Saved/Backup/MainMenuWB_2018-07-28-00-24-50.uasset
+[2018.07.29-18.22.01:686][  0]SourceControl: 	Saved/Backup/MainMenuWB_2018-07-28-07-38-28.uasset
+[2018.07.29-18.22.01:686][  0]SourceControl: 	Saved/Backup/Map1_2018-07-29-15-45-47.umap
+[2018.07.29-18.22.01:686][  0]SourceControl: 	Saved/Backup/Map1_2018-07-29-16-18-16.umap
+[2018.07.29-18.22.01:687][  0]SourceControl: 	Saved/Backup/Map1_2018-07-29-16-28-37.umap
+[2018.07.29-18.22.01:687][  0]SourceControl: 	Saved/Backup/Map1_2018-07-29-16-50-07.umap
+[2018.07.29-18.22.01:687][  0]SourceControl: 	Saved/Backup/Map1_2018-07-29-17-25-48.umap
+[2018.07.29-18.22.01:687][  0]SourceControl: 	Saved/Backup/Map1_2018-07-29-18-45-11.umap
+[2018.07.29-18.22.01:687][  0]SourceControl: 	Saved/Backup/Map1_2018-07-30-00-23-44.umap
+[2018.07.29-18.22.01:687][  0]SourceControl: 	Saved/Backup/Map1_2018-07-30-00-30-17.umap
+[2018.07.29-18.22.01:687][  0]SourceControl: 	Saved/Backup/Map1_2018-07-30-01-33-04.umap
+[2018.07.29-18.22.01:687][  0]SourceControl: 	Saved/Backup/Map1_2018-07-30-01-49-19.umap
+[2018.07.29-18.22.01:688][  0]SourceControl: 	Saved/Backup/Map2_2018-07-27-21-57-32.umap
+[2018.07.29-18.22.01:688][  0]SourceControl: 	Saved/Backup/Map2_2018-07-28-02-39-43.umap
+[2018.07.29-18.22.01:688][  0]SourceControl: 	Saved/Backup/Menu_2018-07-28-00-29-54.umap
+[2018.07.29-18.22.01:688][  0]SourceControl: 	Saved/Backup/Menu_2018-07-28-02-36-32.umap
+[2018.07.29-18.22.01:688][  0]SourceControl: 	Saved/Backup/Menu_2018-07-28-06-34-24.umap
+[2018.07.29-18.22.01:688][  0]SourceControl: 	Saved/Backup/Menu_2018-07-28-07-44-27.umap
+[2018.07.29-18.22.01:688][  0]SourceControl: 	Saved/Backup/Menu_2018-07-28-07-51-50.umap
+[2018.07.29-18.22.01:688][  0]SourceControl: 	Saved/Backup/MyGameState_2018-07-30-02-03-03.uasset
+[2018.07.29-18.22.01:689][  0]SourceControl: 	Saved/Backup/MyGameState_2018-07-30-02-13-15.uasset
+[2018.07.29-18.22.01:689][  0]SourceControl: 	Saved/Backup/MyPlayerState_2018-07-28-03-46-59.uasset
+[2018.07.29-18.22.01:689][  0]SourceControl: 	Saved/Backup/NewChatMessageChild_2018-07-28-01-48-00.uasset
+[2018.07.29-18.22.01:689][  0]SourceControl: 	Saved/Backup/NewChatMessageChild_2018-07-28-02-36-27.uasset
+[2018.07.29-18.22.01:689][  0]SourceControl: 	Saved/Backup/NewChatWindow_2018-07-27-21-45-00.uasset
+[2018.07.29-18.22.01:689][  0]SourceControl: 	Saved/Backup/NewChatWindow_2018-07-28-01-35-30.uasset
+[2018.07.29-18.22.01:689][  0]SourceControl: 	Saved/Backup/NewChatWindow_2018-07-28-01-48-00.uasset
+[2018.07.29-18.22.01:689][  0]SourceControl: 	Saved/Backup/NewChatWindow_2018-07-28-02-05-09.uasset
+[2018.07.29-18.22.01:690][  0]SourceControl: 	Saved/Backup/NewChatWindow_2018-07-28-02-20-50.uasset
+[2018.07.29-18.22.01:690][  0]SourceControl: 	Saved/Backup/NewChatWindow_2018-07-28-02-36-27.uasset
+[2018.07.29-18.22.01:690][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-06-14-43.uasset
+[2018.07.29-18.22.01:690][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-06-20-46.uasset
+[2018.07.29-18.22.01:690][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-06-25-46.uasset
+[2018.07.29-18.22.01:690][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-06-39-57.uasset
+[2018.07.29-18.22.01:690][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-06-45-16.uasset
+[2018.07.29-18.22.01:690][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-06-51-05.uasset
+[2018.07.29-18.22.01:691][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-06-56-58.uasset
+[2018.07.29-18.22.01:691][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-07-03-07.uasset
+[2018.07.29-18.22.01:691][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-07-10-35.uasset
+[2018.07.29-18.22.01:691][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-07-19-45.uasset
+[2018.07.29-18.22.01:691][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-07-25-30.uasset
+[2018.07.29-18.22.01:691][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-07-36-29.uasset
+[2018.07.29-18.22.01:691][  0]SourceControl: 	Saved/Backup/OptionMenu_2018-07-28-07-42-41.uasset
+[2018.07.29-18.22.01:691][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-27-21-10-12.uasset
+[2018.07.29-18.22.01:692][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-27-21-20-59.uasset
+[2018.07.29-18.22.01:692][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-00-36-01.uasset
+[2018.07.29-18.22.01:692][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-01-03-51.uasset
+[2018.07.29-18.22.01:692][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-01-09-39.uasset
+[2018.07.29-18.22.01:692][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-01-15-29.uasset
+[2018.07.29-18.22.01:692][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-01-24-11.uasset
+[2018.07.29-18.22.01:692][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-01-43-09.uasset
+[2018.07.29-18.22.01:692][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-01-49-53.uasset
+[2018.07.29-18.22.01:693][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-02-04-39.uasset
+[2018.07.29-18.22.01:693][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-02-12-53.uasset
+[2018.07.29-18.22.01:693][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-02-19-47.uasset
+[2018.07.29-18.22.01:693][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-02-36-27.uasset
+[2018.07.29-18.22.01:693][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-02-55-08.uasset
+[2018.07.29-18.22.01:693][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-03-36-53.uasset
+[2018.07.29-18.22.01:693][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-28-04-17-36.uasset
+[2018.07.29-18.22.01:693][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-29-17-25-48.uasset
+[2018.07.29-18.22.01:694][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-29-18-45-02.uasset
+[2018.07.29-18.22.01:694][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-29-23-36-31.uasset
+[2018.07.29-18.22.01:694][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-30-00-06-43.uasset
+[2018.07.29-18.22.01:694][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-30-00-28-16.uasset
+[2018.07.29-18.22.01:694][  0]SourceControl: 	Saved/Backup/PawnCamera_2018-07-30-01-49-12.uasset
+[2018.07.29-18.22.01:694][  0]SourceControl: 	Saved/Backup/ServerMenu_2018-07-28-00-26-41.uasset
+[2018.07.29-18.22.01:694][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-29-15-59-19.uasset
+[2018.07.29-18.22.01:694][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-29-16-05-21.uasset
+[2018.07.29-18.22.01:695][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-29-16-15-04.uasset
+[2018.07.29-18.22.01:695][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-29-17-25-48.uasset
+[2018.07.29-18.22.01:695][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-29-23-41-50.uasset
+[2018.07.29-18.22.01:695][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-29-23-48-08.uasset
+[2018.07.29-18.22.01:695][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-29-23-57-08.uasset
+[2018.07.29-18.22.01:695][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-00-05-03.uasset
+[2018.07.29-18.22.01:695][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-00-10-09.uasset
+[2018.07.29-18.22.01:695][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-00-16-13.uasset
+[2018.07.29-18.22.01:696][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-00-21-56.uasset
+[2018.07.29-18.22.01:696][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-00-28-16.uasset
+[2018.07.29-18.22.01:696][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-01-14-08.uasset
+[2018.07.29-18.22.01:696][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-01-23-41.uasset
+[2018.07.29-18.22.01:696][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-01-29-10.uasset
+[2018.07.29-18.22.01:696][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-01-36-59.uasset
+[2018.07.29-18.22.01:696][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-01-49-12.uasset
+[2018.07.29-18.22.01:696][  0]SourceControl: 	Saved/Backup/SuicideSoldier_2018-07-30-01-59-16.uasset
+[2018.07.29-18.22.01:697][  0]SourceControl: 	Saved/Backup/TeamAndColorSelectWB_2018-07-28-17-43-50.uasset
+[2018.07.29-18.22.01:697][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-00-37-05.uasset
+[2018.07.29-18.22.01:697][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-00-43-30.uasset
+[2018.07.29-18.22.01:697][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-00-52-15.uasset
+[2018.07.29-18.22.01:697][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-00-57-52.uasset
+[2018.07.29-18.22.01:697][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-01-03-51.uasset
+[2018.07.29-18.22.01:697][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-01-14-10.uasset
+[2018.07.29-18.22.01:697][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-01-28-52.uasset
+[2018.07.29-18.22.01:698][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-01-48-00.uasset
+[2018.07.29-18.22.01:698][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-02-02-58.uasset
+[2018.07.29-18.22.01:698][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-02-26-27.uasset
+[2018.07.29-18.22.01:698][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-02-36-27.uasset
+[2018.07.29-18.22.01:698][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-02-57-19.uasset
+[2018.07.29-18.22.01:698][  0]SourceControl: 	Saved/Backup/Tower_2018-07-28-03-49-40.uasset
+[2018.07.29-18.22.01:698][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-15-25-02.uasset
+[2018.07.29-18.22.01:698][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-15-30-05.uasset
+[2018.07.29-18.22.01:699][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-15-35-42.uasset
+[2018.07.29-18.22.01:699][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-15-42-48.uasset
+[2018.07.29-18.22.01:699][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-16-19-56.uasset
+[2018.07.29-18.22.01:699][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-16-28-37.uasset
+[2018.07.29-18.22.01:699][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-16-40-06.uasset
+[2018.07.29-18.22.01:699][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-16-52-29.uasset
+[2018.07.29-18.22.01:699][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-17-00-21.uasset
+[2018.07.29-18.22.01:699][  0]SourceControl: 	Saved/Backup/Tower_2018-07-29-17-09-02.uasset
+[2018.07.29-18.22.01:699][  0]SourceControl: 	Saved/Backup/Tower_2018-07-30-01-53-20.uasset
+[2018.07.29-18.22.01:700][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-065CF23C4A5F24FE859500A246791B48/
+[2018.07.29-18.22.01:700][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-2406AD9D4C061F71AD141CBA2761D1A2/
+[2018.07.29-18.22.01:700][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-30E0DE004A07CCB82AECD6931DA8E2FC/
+[2018.07.29-18.22.01:700][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-55B3F9FF49FFB4050FED1AA0B38FC745/
+[2018.07.29-18.22.01:700][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-64100BD04E900EE829A981814B353658/
+[2018.07.29-18.22.01:700][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-7ADE36294DAFF9EDF8F5558C4D03E308/
+[2018.07.29-18.22.01:701][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-A90A7B894F93DEA2F2C0AB8B0C9B3104/
+[2018.07.29-18.22.01:701][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-EBC16AB54C5F90B92284ACB13543D8EA/
+[2018.07.29-18.22.01:701][  0]SourceControl: 	Saved/Config/CrashReportClient/UE4CC-Windows-FC8C37F54CC4AB57D4DCAEA08637FA24/
+[2018.07.29-18.22.01:701][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-6DA400CF43A04B3B4907B0870FE5DF20_0000/
+[2018.07.29-18.22.01:701][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-E69C5DAC4D72EE43E859BE9AF525CD19_0000/
+[2018.07.29-18.22.01:701][  0]SourceControl: 	Saved/Crashes/UE4CC-Windows-EBC16AB54C5F90B92284ACB13543D8EA_0000/
+[2018.07.29-18.22.01:701][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.29-23.27.34.log
+[2018.07.29-18.22.01:702][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.30-01.01.52.log
+[2018.07.29-18.22.01:702][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.30-01.07.25.log
+[2018.07.29-18.22.01:702][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.30-01.51.32.log
+[2018.07.29-18.22.01:702][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.30-02.12.26.log
+[2018.07.29-18.22.01:702][  0]SourceControl: 	Saved/Logs/MultiplayerTest-backup-2018.07.30-02.21.44.log
+[2018.07.29-18.22.01:702][  0]SourceControl: 	Saved/Logs/MultiplayerTest_2-backup-2018.07.30-00.28.25.log
+[2018.07.29-18.22.01:702][  0]SourceControl: 	Saved/Logs/MultiplayerTest_2-backup-2018.07.30-00.30.32.log
+[2018.07.29-18.22.01:703][  0]LogContentStreaming: Texture pool size now 400 MB
+[2018.07.29-18.22.02:001][  1]LogAssetRegistry: Asset discovery search completed in 12.8935 seconds
+[2018.07.29-18.22.02:004][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.07.29-18.22.02:004][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000206 seconds (updated 0 objects)
+[2018.07.29-18.22.05:667][ 12]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.29-18.22.32:751][227]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.07.29-18.22.33:172][227]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 113 classes and 0 folders.
+[2018.07.29-18.22.34:094][227]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.29-18.22.34:172][227]LogSlate: Took 0.000312 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.29-18.22.34:297][228]LogSlate: Took 0.000272 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.29-18.24.04:742][974]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.29-18.24.06:303][  2]LogSavePackage: Save=195.22ms
+[2018.07.29-18.24.06:303][  2]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerControllerF0CD55524EA6ED79641F7ABC201D74C9.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.29-18.24.06:314][  2]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.29-18.24.25:057][786]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.29-18.24.46:951][889]BlueprintLog: New page: Compile GameplayPlayerController
+[2018.07.29-18.24.48:367][916]LogSavePackage: Save=181.46ms
+[2018.07.29-18.24.48:367][916]LogSavePackage: Moving '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/GameplayPlayerControllerB4127EDE45701E85FFC4EA9E45A7E8BC.tmp' to '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset'
+[2018.07.29-18.24.48:370][916]LogSavePackage: Display: Finished SavePackage ../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Blueprints/Gameplay/GameplayPlayerController.uasset
+[2018.07.29-18.24.53:780][357]LogAIModule: Creating AISystem for world Map1
+[2018.07.29-18.24.53:812][357]Cmd: MAP LOAD FILE="../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Maps/Map1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.29-18.24.53:812][357]LightingResults: New page: Lighting Build
+[2018.07.29-18.24.53:813][357]LoadErrors: New page: Loading map: Map1.umap
+[2018.07.29-18.24.53:814][357]MapCheck: New page: Map Check
+[2018.07.29-18.24.53:814][357]LightingResults: New page: Lighting Build
+[2018.07.29-18.24.53:918][357]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.29-18.24.53:964][357]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.29-18.24.54:029][357]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 65.487ms to complete.
+[2018.07.29-18.24.54:030][357]LogFileHelpers: Loading map 'Map1' took 0.220
+[2018.07.29-18.24.55:495][461]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.07.29-18.24.55:563][461]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.07.29-18.24.55:564][461]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.29-18.24.55:564][461]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.29-18.24.55:564][461]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.29-18.24.55:565][461]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.29-18.24.55:565][461]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.29-18.24.55:565][461]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.07.29-18.24.55:565][461]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.07.29-18.24.55:576][461]PIE: New page: PIE session: Map1 (Jul 30, 2018, 10:24:55 AM)
+[2018.07.29-18.24.55:577][461]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_Map1
+[2018.07.29-18.24.55:583][461]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005968s)
+[2018.07.29-18.24.55:584][461]LogAIModule: Creating AISystem for world Map1
+[2018.07.29-18.24.55:584][461]LogPlayLevel: PIE: World Init took: (0.000932s)
+[2018.07.29-18.24.55:585][461]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Map1.Map1 to /Game/Maps/UEDPIE_1_Map1.Map1 (0.007592s)
+[2018.07.29-18.24.55:614][461]LogLoad: Game class is 'GameplayGameMode_C'
+[2018.07.29-18.24.55:617][461]LogWorld: Bringing World /Game/Maps/UEDPIE_1_Map1.Map1 up for play (max tick rate 0) at 2018.07.30-02.24.55
+[2018.07.29-18.24.55:618][461]LogWorld: Bringing up level for play took: 0.002164
+[2018.07.29-18.24.55:618][461]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.29-18.24.55:619][461]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.07.29-18.24.55:619][461]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.29-18.24.55:619][461]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.07.29-18.24.57:869][461]GetHostByName failed (SE_NO_DATA)
+[2018.07.29-18.24.57:869][461]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.29-18.24.57:869][461]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2018.07.29-18.24.57:870][461]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_Map1 3.004
+[2018.07.29-18.24.57:872][461]PIE: New page: PIE session: Map1 (Jul 30, 2018, 10:24:57 AM)
+[2018.07.29-18.24.57:877][461]LogInit: XAudio2 using 'Динамики (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.29-18.24.57:887][461]LogInit: FAudioDevice initialized.
+[2018.07.29-18.24.57:928][461]LogNet: Browse: 127.0.0.1//Game/Maps/Menu
+[2018.07.29-18.24.57:928][461]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.29-18.24.57:929][461]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.07.29-18.24.57:929][461]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.07.29-18.24.57:929][461]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.07.29-18.25.00:179][461]GetHostByName failed (SE_NO_DATA)
+[2018.07.29-18.25.00:179][461]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.29-18.25.00:179][461]LogNet: Game client on port 7777, rate 10000
+[2018.07.29-18.25.00:183][461]PIE: Play in editor start time for /Game/Maps/Menu 5.317
+[2018.07.29-18.25.00:185][461]PIE: New page: PIE session: Map1 (Jul 30, 2018, 10:25:00 AM)
+[2018.07.29-18.25.00:226][461]LogNet: Browse: 127.0.0.1//Game/Maps/Menu
+[2018.07.29-18.25.00:226][461]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.29-18.25.00:226][461]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.07.29-18.25.00:226][461]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.07.29-18.25.00:226][461]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.07.29-18.25.02:477][461]GetHostByName failed (SE_NO_DATA)
+[2018.07.29-18.25.02:477][461]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.29-18.25.02:477][461]LogNet: Game client on port 7777, rate 10000
+[2018.07.29-18.25.02:481][461]PIE: Play in editor start time for /Game/Maps/Menu 7.615
+[2018.07.29-18.25.02:489][461]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.07.29-18.25.02:491][461]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 0.01, Realtime: 6.87. IpNetDriver_0
+[2018.07.29-18.25.02:491][461]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60039
+[2018.07.29-18.25.02:491][461]LogHandshake: SendConnectChallenge. Timestamp: 0.009605, Cookie: 044142216014009234062181165054191008022219114129098002162039
+[2018.07.29-18.25.02:491][461]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60040
+[2018.07.29-18.25.02:491][461]LogHandshake: SendConnectChallenge. Timestamp: 0.009605, Cookie: 024169147068050071243073124145083085110242066069234012009017
+[2018.07.29-18.25.02:559][461]LogHandshake: SendChallengeResponse. Timestamp: 0.009605, Cookie: 044142216014009234062181165054191008022219114129098002162039
+[2018.07.29-18.25.02:560][461]LogHandshake: SendChallengeResponse. Timestamp: 0.009605, Cookie: 024169147068050071243073124145083085110242066069234012009017
+[2018.07.29-18.25.02:633][462]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 7.14, Realtime: 0.14. IpNetDriver_0
+[2018.07.29-18.25.02:633][462]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60039
+[2018.07.29-18.25.02:634][462]LogHandshake: SendChallengeAck. InCookie: 044142216014009234062181165054191008022219114129098002162039
+[2018.07.29-18.25.02:634][462]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60039
+[2018.07.29-18.25.02:634][462]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.29-18.25.02:635][462]LogNet: NotifyAcceptedConnection: Name: Map1, TimeStamp: 07/30/18 02:25:02, [UNetConnection] RemoteAddr: 127.0.0.1:60039, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.07.29-18.25.02:635][462]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60039, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.07.29-18.25.02:635][462]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60040
+[2018.07.29-18.25.02:636][462]LogHandshake: SendChallengeAck. InCookie: 024169147068050071243073124145083085110242066069234012009017
+[2018.07.29-18.25.02:636][462]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60040
+[2018.07.29-18.25.02:636][462]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.07.29-18.25.02:636][462]LogNet: NotifyAcceptedConnection: Name: Map1, TimeStamp: 07/30/18 02:25:02, [UNetConnection] RemoteAddr: 127.0.0.1:60040, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.07.29-18.25.02:637][462]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60040, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.07.29-18.25.02:637][462]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 7.14, Realtime: 0.08. IpNetDriver_1
+[2018.07.29-18.25.02:638][462]LogNetVersion: MultiplayerTest 1.0.0.0, NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3368800141)
+[2018.07.29-18.25.02:638][462]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.07.29-18.25.02:638][462]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 7.14, Realtime: 0.08. IpNetDriver_2
+[2018.07.29-18.25.02:638][462]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL
+[2018.07.29-18.25.02:673][463]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Map1.Map1: Accepted
+[2018.07.29-18.25.02:673][463]LogNet: Remote platform little endian=1
+[2018.07.29-18.25.02:673][463]LogNet: This platform little endian=1
+[2018.07.29-18.25.02:673][463]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_Map1.Map1: Accepted
+[2018.07.29-18.25.02:673][463]LogNet: Remote platform little endian=1
+[2018.07.29-18.25.02:673][463]LogNet: This platform little endian=1
+[2018.07.29-18.25.02:705][464]LogNet: Login request: /Game/Maps/Menu?Name=Konstantin-??-389215D247B193E8ABF5C98FF32FF383 userId: Konstantin-??-389215D247B193E8ABF5C98FF32FF383
+[2018.07.29-18.25.02:705][464]LogNet: Login request: /Game/Maps/Menu?Name=Konstantin-??-96195BEA4CEABA5CD8D6EEB1E231BB3A userId: Konstantin-??-96195BEA4CEABA5CD8D6EEB1E231BB3A
+[2018.07.29-18.25.02:706][464]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Map1, Game: /Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C)
+[2018.07.29-18.25.02:710][464]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_Map1?game=/Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C
+[2018.07.29-18.25.02:729][464]Cmd: MEM
+[2018.07.29-18.25.02:748][464]LogMemory: Platform Memory Stats for Windows
+[2018.07.29-18.25.02:748][464]LogMemory: Process Physical Memory: 1341.58 MB used, 1341.58 MB peak
+[2018.07.29-18.25.02:748][464]LogMemory: Process Virtual Memory: 1263.79 MB used, 1263.79 MB peak
+[2018.07.29-18.25.02:748][464]LogMemory: Physical Memory: 2772.99 MB used,  3334.89 MB free, 6107.88 MB total
+[2018.07.29-18.25.02:748][464]LogMemory: Virtual Memory: 1938.73 MB used,  3334.89 MB free, 8388608.00 MB total
+[2018.07.29-18.25.02:748][464]LogMemory: 
+[2018.07.29-18.25.02:748][464]Allocator Stats for TBB: (not implemented)
+[2018.07.29-18.25.02:757][464]LogAIModule: Creating AISystem for world Map1
+[2018.07.29-18.25.02:757][464]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.29-18.25.02:759][464]LogWorld: Bringing World /Game/Maps/UEDPIE_2_Map1.Map1 up for play (max tick rate 0) at 2018.07.30-02.25.02
+[2018.07.29-18.25.02:760][464]LogWorld: Bringing up level for play took: 0.001880
+[2018.07.29-18.25.02:760][464]LogLoad: Took 0.050450 seconds to LoadMap(/Game/Maps/UEDPIE_1_Map1)
+[2018.07.29-18.25.02:761][464]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_Map1, Game: /Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C)
+[2018.07.29-18.25.02:761][464]LogLoad: LoadMap: 127.0.0.1//Game/Maps/UEDPIE_1_Map1?game=/Game/Blueprints/Gameplay/GameplayGameMode.GameplayGameMode_C
+[2018.07.29-18.25.02:780][464]Cmd: MEM
+[2018.07.29-18.25.02:800][464]LogMemory: Platform Memory Stats for Windows
+[2018.07.29-18.25.02:800][464]LogMemory: Process Physical Memory: 1344.87 MB used, 1344.87 MB peak
+[2018.07.29-18.25.02:800][464]LogMemory: Process Virtual Memory: 1263.79 MB used, 1263.79 MB peak
+[2018.07.29-18.25.02:800][464]LogMemory: Physical Memory: 2778.21 MB used,  3329.67 MB free, 6107.88 MB total
+[2018.07.29-18.25.02:800][464]LogMemory: Virtual Memory: 1938.73 MB used,  3329.67 MB free, 8388608.00 MB total
+[2018.07.29-18.25.02:800][464]LogMemory: 
+[2018.07.29-18.25.02:800][464]Allocator Stats for TBB: (not implemented)
+[2018.07.29-18.25.02:807][464]LogAIModule: Creating AISystem for world Map1
+[2018.07.29-18.25.02:807][464]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.07.29-18.25.02:810][464]LogWorld: Bringing World /Game/Maps/UEDPIE_3_Map1.Map1 up for play (max tick rate 0) at 2018.07.30-02.25.02
+[2018.07.29-18.25.02:810][464]LogWorld: Bringing up level for play took: 0.001807
+[2018.07.29-18.25.02:811][464]LogLoad: Took 0.049559 seconds to LoadMap(/Game/Maps/UEDPIE_1_Map1)
+[2018.07.29-18.25.02:837][465]LogNet: Client netspeed is 10000
+[2018.07.29-18.25.02:837][465]LogNet: Join request: /Game/Maps/Menu?Name=Konstantin-??SplitscreenCount=1
+[2018.07.29-18.25.02:838][465]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.07.29-18.25.02:839][465]LogNet: Join succeeded: Konstantin-
+[2018.07.29-18.25.02:839][465]LogNet: Client netspeed is 10000
+[2018.07.29-18.25.02:840][465]LogNet: Join request: /Game/Maps/Menu?Name=Konstantin-??SplitscreenCount=1
+[2018.07.29-18.25.02:840][465]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.07.29-18.25.02:841][465]LogNet: Join succeeded: Konstantin-
+[2018.07.29-18.25.02:860][466]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Map1_C_1. Function SetUpPlayers will not be processed.
+[2018.07.29-18.25.02:862][466]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Map1_C_1. Function SetUpPlayers will not be processed.
+[2018.07.29-18.25.02:875][467]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.07.29-18.25.02:875][467]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.07.29-18.25.02:887][468]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.07.29-18.25.02:888][468]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2018.07.29-18.25.04:365][581]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.07.29-18.25.04:414][581]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.07.29-18.25.05:641][676]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.07.29-18.25.05:691][676]AdvancedSteamFriendsLog: Warning: STEAM Couldn't be verified as initialized
+[2018.07.29-18.25.07:876][845]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.29-18.25.07:877][845]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.29-18.25.12:863][202]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.29-18.25.12:863][202]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.29-18.25.12:949][208]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Barracs_C_0. Function GetInstMatRunOnServ will not be processed.
+[2018.07.29-18.25.17:000][500]LogBlueprintUserMessages: [Tower_C_0] Server: 0
+[2018.07.29-18.25.17:002][500]LogBlueprintUserMessages: [Tower_C_0] Client 1: 0
+[2018.07.29-18.25.17:003][500]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Tower_C_0. Function GetInstMatRunOnServ will not be processed.
+[2018.07.29-18.25.17:003][500]LogBlueprintUserMessages: [Tower_C_0] Client 2: 0
+[2018.07.29-18.25.17:018][501]LogBlueprintUserMessages: [Tower_C_0] Server: 0
+[2018.07.29-18.25.17:020][501]LogBlueprintUserMessages: [Tower_C_0] Client 1: 0
+[2018.07.29-18.25.17:021][501]LogBlueprintUserMessages: [Tower_C_1] Client 2: 0
+[2018.07.29-18.25.17:022][501]LogBlueprintUserMessages: [Tower_C_0] Client 2: 0
+[2018.07.29-18.25.17:864][561]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.29-18.25.17:864][561]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.29-18.25.17:953][567]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SuicideSoldier_C_0. Function GotoMainBuild will not be processed.
+[2018.07.29-18.25.17:954][567]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Barracs_C_0. Function SpawnMobs will not be processed.
+[2018.07.29-18.25.17:972][568]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SuicideSoldier_C_1. Function GotoMainBuild will not be processed.
+[2018.07.29-18.25.18:960][637]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Barracs_C_2. Function GetInstMatRunOnServ will not be processed.
+[2018.07.29-18.25.22:942][924]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.29-18.25.22:943][924]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor MyGameState_C_0. Function GrowUpCoinsAllPlayers will not be processed.
+[2018.07.29-18.25.23:058][929]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SuicideSoldier_C_5. Function GotoMainBuild will not be processed.
+[2018.07.29-18.25.23:059][929]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Barracs_C_0. Function SpawnMobs will not be processed.
+[2018.07.29-18.25.23:095][930]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SuicideSoldier_C_6. Function GotoMainBuild will not be processed.
+[2018.07.29-18.25.24:118][988]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SuicideSoldier_C_10. Function GotoMainBuild will not be processed.
+[2018.07.29-18.25.24:119][988]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor Barracs_C_2. Function SpawnMobs will not be processed.
+[2018.07.29-18.25.24:133][989]LogNet: Warning: UIpNetDriver::ProcesRemoteFunction: No owning connection for actor SuicideSoldier_C_12. Function GotoMainBuild will not be processed.
+[2018.07.29-18.25.27:923][290]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.07.29-18.25.27:968][290]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.29-18.25.27:968][290]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.29-18.25.27:981][290]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.29-18.25.27:981][290]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.29-18.25.28:009][290]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.29-18.25.28:009][290]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.29-18.25.28:011][290]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.29-18.25.28:011][290]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.29-18.25.28:011][290]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.29-18.25.28:011][290]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.29-18.25.28:012][290]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.29-18.25.28:012][290]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.29-18.25.28:012][290]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.29-18.25.28:012][290]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Map1.Map1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Map1.Map1:PersistentLevel.Map1' with GeneratedClass '/Game/Maps/Map1.Map1_C' with ClassGeneratedBy '/Game/Maps/Map1.Map1:PersistentLevel.Map1'
+[2018.07.29-18.25.28:033][290]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60040, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.07.29-18.25.28:034][290]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60040, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.07.29-18.25.28
+[2018.07.29-18.25.28:034][290]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60040, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.07.29-18.25.28:035][290]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60039, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.07.29-18.25.28:035][290]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60039, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.07.29-18.25.28
+[2018.07.29-18.25.28:035][290]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60039, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.07.29-18.25.28:036][290]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None
+[2018.07.29-18.25.28:036][290]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.07.29-18.25.28
+[2018.07.29-18.25.28:036][290]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: None, Owner: None
+[2018.07.29-18.25.28:037][290]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.07.29-18.25.28:037][290]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.07.29-18.25.28
+[2018.07.29-18.25.28:037][290]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.07.29-18.25.28:042][290]LogExit: GameNetDriver None shut down
+[2018.07.29-18.25.28:042][290]LogExit: GameNetDriver None shut down
+[2018.07.29-18.25.28:043][290]LogExit: GameNetDriver None shut down
+[2018.07.29-18.25.28:075][291]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.07.29-18.25.28:075][291]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.29-18.25.28:076][291]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2018.07.29-18.25.28:076][291]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.29-18.25.28:076][291]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2018.07.29-18.25.28:076][291]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.29-18.26.07:415][729]Cmd: QUIT_EDITOR
+[2018.07.29-18.26.07:619][729]LogExit: Preparing to exit.
+[2018.07.29-18.26.08:248][729]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/' was aborted.
+[2018.07.29-18.26.08:287][729]LogExit: Editor shut down
+[2018.07.29-18.26.08:293][729]LogExit: Transaction tracking system shut down
+[2018.07.29-18.26.08:432][729]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.07.29-18.26.08:432][729]LogDirectoryWatcher: A directory notification for '../../../../../ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/' was aborted.
+[2018.07.29-18.26.08:432][729]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.07.29-18.26.08:433][729]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.07.29-18.26.08:433][729]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.07.29-18.26.08:535][729]LogExit: Object subsystem successfully closed.
+[2018.07.29-18.26.08:554][729]LogD3D11RHI: Shutdown
+[2018.07.29-18.26.08:554][729]LogD3D11RHI: CleanupD3DDevice
+[2018.07.29-18.26.08:621][729]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.29-18.26.08:630][729]LogModuleManager: Shutting down and abandoning module Voice (538)
+[2018.07.29-18.26.08:630][729]LogModuleManager: Shutting down and abandoning module BlueprintGraph (534)
+[2018.07.29-18.26.08:630][729]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (532)
+[2018.07.29-18.26.08:630][729]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (530)
+[2018.07.29-18.26.08:630][729]LogModuleManager: Shutting down and abandoning module SceneOutliner (528)
+[2018.07.29-18.26.08:630][729]LogModuleManager: Shutting down and abandoning module AddContentDialog (526)
+[2018.07.29-18.26.08:630][729]LogDirectoryWatcher: A directory notification for 'E:/Tournament/UE_4.17/FeaturePacks/' was aborted.
+[2018.07.29-18.26.08:631][729]LogModuleManager: Shutting down and abandoning module WidgetCarousel (525)
+[2018.07.29-18.26.08:631][729]LogModuleManager: Shutting down and abandoning module EditorWidgets (522)
+[2018.07.29-18.26.08:631][729]LogModuleManager: Shutting down and abandoning module CollectionManager (520)
+[2018.07.29-18.26.08:631][729]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Collections/' was aborted.
+[2018.07.29-18.26.08:631][729]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Content/Developers/Konstantin/Collections/' was aborted.
+[2018.07.29-18.26.08:631][729]LogDirectoryWatcher: A directory notification for 'E:/ProjectsUnreal4.17/TacticsWithGitHub/Game/Saved/Collections/' was aborted.
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module StatsViewer (518)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module FoliageEdit (516)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module LandscapeEditor (514)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module MeshPaintMode (512)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (510)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module ActorPickerMode (508)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module GeometryMode (506)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module TextureAlignMode (504)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module BspMode (502)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (500)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module HardwareSurvey (498)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (496)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module AutomationWorker (494)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (492)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (490)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module PlacementMode (489)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (486)
+[2018.07.29-18.26.08:632][729]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (484)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (482)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module Media (481)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (478)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module CharacterAI (476)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module AudioCapture (474)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module SequenceRecorder (473)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module SmartSnapping (470)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module SessionServices (468)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module ViewportSnapping (466)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module ViewportInteraction (464)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module ClothPainter (462)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module LogVisualizer (460)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module IntroTutorials (458)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (457)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (454)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (452)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (450)
+[2018.07.29-18.26.08:633][729]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (449)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (446)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (444)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (442)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module InputBindingEditor (440)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module MergeActors (438)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module SizeMap (436)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module TreeMap (434)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module ReferenceViewer (432)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (430)
+[2018.07.29-18.26.09:058][729]LogModuleManager: Shutting down and abandoning module LocalizationService (429)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module HardwareTargeting (426)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (424)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module UndoHistory (422)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module XmlParser (420)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module Blutility (418)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (416)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (415)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (412)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module SettingsEditor (410)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module ProjectLauncher (408)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module SessionFrontend (406)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module ProfilerClient (404)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module DeviceManager (402)
+[2018.07.29-18.26.09:059][729]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (401)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module AutomationController (398)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module AutomationWindow (396)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module Layers (394)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (392)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module DetailCustomizations (390)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module PackagesDialog (388)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module Persona (386)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (385)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module AnimGraph (383)
+[2018.07.29-18.26.09:099][729]LogModuleManager: Shutting down and abandoning module Kismet (380)
+[2018.07.29-18.26.09:106][729]LogModuleManager: Shutting down and abandoning module ClassViewer (378)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module Toolbox (376)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module ModuleUI (374)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module MovieSceneTools (372)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module OutputLog (370)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module GammaUI (368)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module Documentation (366)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (364)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module MovieScene (362)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module Niagara (360)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module NiagaraEditor (359)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (356)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module LauncherPlatform (354)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module AnalyticsET (352)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module PortalServices (350)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module PortalRpc (348)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module MessagingRpc (346)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module AIModule (344)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module GameplayDebugger (343)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module AITestSuite (341)
+[2018.07.29-18.26.09:108][729]LogModuleManager: Shutting down and abandoning module ProfilerService (338)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module TaskGraph (336)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module SteamVRController (334)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (332)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (330)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module OculusInput (328)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (326)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (324)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module CableComponent (322)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (320)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (318)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.07.29-18.26.09:256][729]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module DesktopPlatform (299)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.07.29-18.26.09:257][729]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.07.29-18.26.09:258][729]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.07.29-18.26.09:258][729]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.07.29-18.26.09:258][729]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.07.29-18.26.09:258][729]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.07.29-18.26.09:258][729]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.07.29-18.26.09:258][729]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.07.29-18.26.09:258][729]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.07.29-18.26.09:258][729]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.07.29-18.26.09:258][729]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.07.29-18.26.09:259][729]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.07.29-18.26.09:259][729]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.07.29-18.26.09:359][729]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.07.29-18.26.09:459][729]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.07.29-18.26.09:459][729]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.07.29-18.26.09:459][729]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.07.29-18.26.09:459][729]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.07.29-18.26.09:459][729]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.07.29-18.26.09:459][729]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.07.29-18.26.09:460][729]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.07.29-18.26.09:460][729]LogModuleManager: Shutting down and abandoning module AdvancedSteamSessions (236)
+[2018.07.29-18.26.09:460][729]LogModuleManager: Shutting down and abandoning module AdvancedSessions (234)
+[2018.07.29-18.26.09:460][729]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2018.07.29-18.26.09:460][729]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2018.07.29-18.26.09:460][729]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module MediaAssets (216)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.07.29-18.26.09:461][729]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.07.29-18.26.09:462][729]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.07.29-18.26.09:462][729]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.07.29-18.26.09:462][729]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.07.29-18.26.09:463][729]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module Core (174)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module MeshUtilities (168)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (167)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (166)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (165)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (163)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (161)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module MaterialBaking (157)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module LevelSequence (154)
+[2018.07.29-18.26.09:464][729]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (152)
+[2018.07.29-18.26.09:465][729]LogModuleManager: Shutting down and abandoning module DerivedDataCache (150)
+[2018.07.29-18.26.09:537][729]LogDerivedDataCache: Shutdown
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2018.07.29-18.26.09:537][729]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (93)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (91)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (89)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (87)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2018.07.29-18.26.09:538][729]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2018.07.29-18.26.09:538][729]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2018.07.29-18.26.09:538][729]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2018.07.29-18.26.09:539][729]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2018.07.29-18.26.09:539][729]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2018.07.29-18.26.09:539][729]LogOnline: Display: Unloading online subsystem: STEAM
+[2018.07.29-18.26.09:539][729]LogOnline: Display: Unloading online subsystem: NULL
+[2018.07.29-18.26.09:539][729]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.07.29-18.26.09:539][729]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.07.29-18.26.09:539][729]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.29-18.26.09:539][729]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BADD5F13C-424F-940F-D011-3AB28FAA50FE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=b19575cd4c512bae2d0928b74a89dbe6%7Cb5027df129bc43d1b0dba9f66342505d%7Ce65336ce-a652-4926-93d0-de7cfdb38018&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.29-18.26.09:553][729]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.07.29-18.26.09:554][729]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.29-18.26.09:554][729]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.29-18.26.09:554][729]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.29-18.26.09:554][729]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.29-18.26.09:555][729]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.29-18.26.09:555][729]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.29-18.26.09:555][729]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.29-18.26.09:556][729]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.29-18.26.09:559][729]LogExit: Exiting.
+[2018.07.29-18.26.09:572][729]Log file closed, 07/30/18 02:26:09
